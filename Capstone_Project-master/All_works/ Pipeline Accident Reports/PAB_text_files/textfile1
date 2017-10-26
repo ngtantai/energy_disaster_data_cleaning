@@ -1,0 +1,581 @@
+National Transportation Safety Board
+
+Washington, D.C. 20594
+
+Pipeline Accident Brief
+
+DCA99-MP005
+Colonial Pipeline Company
+Hazardous liquid petroleum products pipeline
+Pipe rupture
+Knoxville, Tennessee
+Diesel fuel, high sulfur, 86 Grade
+11:58 p.m. EST 
+February 9, 1999
+None
+$7 million 
+About 53,550 gallons (1,275 barrels)
+Approximately 91 psig
+10-inch-diameter, Grade 5L X-42, 0.250-inch wall 
+thickness, electric resistance weld steel pipe
+
+R A SP
+
+N
+ 
+
+O
+
+L U RIBUS UNUM 
+
+E P
+
+ 
+
+ 
+
+A L   T
+N
+O
+I
+T
+A
+N
+
+ 
+
+S
+
+R
+
+T
+
+A
+
+T
+
+I
+
+O
+N
+
+ 
+
+R D
+
+A
+
+F
+
+ETY
+
+ B O A
+
+Accident Number:
+Owner/Operator:
+Type of System:
+Accident Type:
+Location:
+Product Released:
+Time:
+Date:
+Fatalities/Injuries:
+Property Damage:
+Quantity Released:
+Pipeline Pressure:
+Component Affected:
+
+The Accident
+
+On  the  afternoon  of  February  9,  1999,  Colonial  Pipeline  Company  (Colonial)
+successfully  completed  a  delivery  of  diesel  fuel  to  the  East  Knoxville  delivery  facility
+(East Knoxville) in Knoxville, Tennessee, using its Atlanta Junction/Knoxville stubline.1
+To  initiate  the  delivery,  an  operator  at  Colonial’s  Knoxville  Terminal  began  operating
+valves  that  directed  product  into  a  10-inch-diameter  steel  pipeline  leading  to  the  East
+Knoxville facility, about 8 miles away. At about the same time, a valve was opened at the
+other end of that line to allow the product to flow into the East Knoxville facility tanks. At
+the completion of the delivery, the valves were closed, which left the pipeline filled with
+diesel fuel at a pressure of about 91 psig. 
+
+About  11:58  p.m.  on  February  9,  the  supervisory  control  and  data  acquisition
+(SCADA) system2 at Colonial’s Atlanta control center registered and recorded a sudden
+drop in pressure from 91 to 72 psig at East Knoxville. After several minutes of oscillation,
+the pressure stabilized at 73 to 74 psig. The controller on duty in the Atlanta control center
+at  the  time  of  the  accident  stated  that  he  normally  displays  the  SCADA  pressure  strip
+charts3  across  the  two  CRT  screens  at  the  top  of  his  operating  console.  The  SCADA
+
+1 A  Colonial  stubline  is  a  smaller  diameter,  lateral  pipeline  system  that  emanates  from  one  of  the
+
+company’s larger mainline pipelines that run from Texas to New York.
+
+2 Pipeline controllers use the SCADA system to remotely control and monitor movement of product
+through the pipeline. Controllers can monitor flow rates and pressures along the lines and control valves and
+pipeline pumps to adjust the flow and make product deliveries.
+
+NTSB/PAB-01/01
+
+
+
+system did not alarm in response to the decrease in pressure, and the controller said he was
+not aware of the pressure drop. As determined later, the pressure drop occurred when the
+pipeline  leading  to  East  Knoxville  ruptured  on  a  Pitner  Place  residential  property  near
+Knoxville’s Goose Creek.
+
+On the east side of the Tennessee River, Colonial’s pipeline crosses Scottish Pike
+and then Pitner Place. Between midnight and 12:15 a.m. on February 10, a Scottish Pike
+resident walking outside his home smelled a kerosene odor, but he said he took no action
+in regard to the smell. At 1:02 a.m. on February 10, a resident of Pitner Place called 911 to
+report a very strong diesel or gasoline odor in the area. The Knoxville Fire Department
+responded and concluded that the reported odors came from an asphalt plant across the
+river from the community. Thus believing this odor did not pose any further concern but
+was merely a nuisance odor, the firefighters cancelled the fire call and left the scene.
+
+About 2:05 a.m., another Pitner Place resident closer to the pipe rupture, called 911
+to report a very strong petroleum gas odor in the area. The fire department returned to the
+scene  to  investigate.  Again,  the  fire  company  attributed  the  odor  to  the  nearby  asphalt
+plant. At  2:17 a.m.,  a Knoxville  area  resident  called 911  to  report  oil on  the  Tennessee
+River.
+
+Meanwhile,  the  Atlanta  controller  (still  unaware  of  the  drop  in  the  pipeline
+pressure) called the Knoxville operator to start another product delivery to East Knoxville.
+About  2:31  a.m.,  the  Knoxville  operator  began  operating  valves  to  send  product  to  the
+East Knoxville delivery facility. The Atlanta controller observed that the East Knoxville
+meter indicated no flow rate and that the pressure did not rise as expected at Knoxville.
+The Knoxville operator said that after waiting 4 to 5 minutes for the flow rate to register
+on  his  CRT  screen,  he  called  the  Atlanta  controller  about  the  situation.  The  Atlanta
+controller  called  the  senior  controller  for  his  shift  over  to  the  console  to  discuss  the
+pipeline data, at which point the senior controller decided to terminate the delivery on the
+East Knoxville line. About 2:39 a.m., the Knoxville operator began shutting down the East
+Knoxville pipeline section and resumed using the stubline to make a delivery to another
+Knoxville terminal. 
+
+After  shutting  down  the  line,  about  2:44  a.m.,  the  Knoxville  operator  called
+another  Colonial  employee  at  home  and  asked  him  to  check  out  the  East  Knoxville
+delivery  facility.  In  a  discussion  with  the  Knoxville  operator  at  3:01  a.m.,  the  Atlanta
+controller suggested that the pipeline might have been in a slack condition (only partially
+filled  with  product)  when  the  delivery  started,  but  he  added  that  the  pipeline  pressure
+should have increased faster at that time. In that discussion, he also said that the pipeline
+was 600 to 700 barrels short. 
+
+The hourly over/short calculation shown on the controller’s log for the line showed
+a  shortage  of  725  barrels at  3:00  a.m.  After  the  accident,  the  Atlanta  controller  said  he
+considered the shortage “high.” He also said that 300 barrels is “getting high,” although he
+believed  that  300  barrels  could  be  explained  as  a  characteristic  of  the  opening  of  a
+delivery. According to Colonial procedures, a sudden loss of pressure and/or a change in
+
+3 The SCADA system provides pressure data on a strip chart graphical display on a CRT screen, which
+
+displays the pressure history for about the previous hour.
+
+NTSB/PAB-01/01
+
+
+
+flow rate are to be interpreted as conclusive evidence of a leak. As part of Colonial’s leak
+detection  strategy,  controllers  are  to  immediately  investigate  and  correct  any  shortage
+calculation. 
+
+At 3:45 a.m., Knoxville Fire Department responders found fuel running into Goose
+Creek, which discharges into the Tennessee River about 1/2 mile downstream. Noting a
+nearby  Colonial  pipeline  marker  with  contact  information,  the  incident  commander
+directed  a  Knoxville  Fire  Department  dispatcher  trainee  to  contact  Colonial  about  the
+leak; however, Colonial was not notified at that time.
+
+Meanwhile,  the  Colonial  employee  who  had  been  asked  to  check  the  East
+Knoxville  facility  had  driven  by  the  site  where  an  internal  inspection  tool  had  been
+removed from the pipeline on February 9 (discussed below in the “Pipeline Information”
+section). About 4:00 a.m., he reported that he saw no evidence of a failure in the pipeline
+at that location, nor did he find any problem at the East Knoxville facility.
+
+Still unaware of the nature of the problem, the Knoxville operator and the called-
+out Colonial employee discussed the situation with the Atlanta controller. At the end of the
+discussion,  the  Atlanta  controller  decided  that  the  Knoxville  operator  should  attempt
+another delivery to East Knoxville. The senior controller was not involved in the decision
+to  restart  delivery.  This  time,  the  called-out  operator  would  be  observing  at  East
+Knoxville.  About  4:03  a.m.,  the  operator  attempted  to  pressure  up  the  line  between
+Knoxville and East Knoxville, but the pressure did not rise as expected. About 4:20 a.m.,
+he again opened the East Knoxville valve to operate this pipeline section, and initially no
+flow was noted at East Knoxville. After a few minutes, the pressure began to fluctuate and
+a lower-than-expected flow rate was indicated. The hourly flow rate was expected to be
+more than 3,000 barrels per hour (bph); however, it peaked at approximately 2,000 bph.
+
+About 4:30 a.m., the Knoxville Fire Department found diesel fuel spraying from a
+pipeline onto a Pitner Place residence and running downhill into Goose Creek, which was
+about 170 feet from the rupture site. The incident commander asked the fire department
+communications center dispatcher to contact Colonial and have the company shut down
+the  pipeline.  The  fire  department  dispatcher,  who  was  talking  to  Colonial’s  senior
+controller in Atlanta at that time, notified him of the leak and asked that the pipeline be
+shut down. The senior controller immediately ordered that the Knoxville stubline be shut
+down. The East Knoxville segment shutdown was completed at 4:35 a.m. At 4:46 a.m.,
+the East Knoxville delivery valve was opened, and the pipeline segment was then allowed
+to drain into the East Knoxville terminal. According to Colonial records, the temperature
+of the product was approximately 61° F at East Knoxville.
+
+The  ruptured  pipeline  released  approximately  53,550  gallons  (1,275  barrels)  of
+diesel fuel. Fifteen people were reported to have voluntarily evacuated the immediate area
+of the leak. During the first 24 hours, the leading edge of the oil slick on the Tennessee
+River advanced about 6 miles downstream from Goose Creek. For the next several days,
+the Tennessee River in the Knoxville area was closed to navigation as containment booms
+were placed downriver. Nine collection points for escaped petroleum product were placed
+downstream of the accident site. Colonial estimated that 44,016 gallons (1,048 barrels) of
+product have been recovered. No fire resulted, and no injuries were reported.
+
+NTSB/PAB-01/01
+
+
+
+On March 3, 1999, Colonial submitted a Corrective Action Plan for Impacted Soils
+and Groundwater at the Goose Creek Knoxville, Tennessee, Release Site to the Tennessee
+Division of Solid Waste Management and Tennessee Division of Water Pollution Control.
+The intent of the action plan was to determine the extent of the underground diesel fuel
+plume and the further action needed to ensure site remediation acceptable to the State. The
+corrective action plan called for the excavation of all contaminated soils at the leak site
+that exceeded 500 parts per million, in accordance with Tennessee underground storage
+tank guidance cleanup guidelines.
+
+Approximately  18,000 tons  of  contaminated  soil were excavated  at  the  leak  site
+area  during  March  and  April  1999.  The  excavated  soil  was  transported  to  Waste
+Management’s Chestnut Ridge Landfill for disposal under the approval of the Tennessee
+Division of Solid Waste Management. A well survey conducted shortly after the release
+found  no  residential  wells  in  the  leak  site  area.  The  limited  amount  of  affected
+groundwater encountered was treated on site. The March 3 plan stated that because the
+affected groundwater immediately discharges to Goose Creek, it would not contaminate
+other  portions  of  the  shallow  groundwater  system  and  would  not  affect  deeper
+groundwater. It was therefore determined that it was not necessary to install monitoring
+wells at the leak site.
+
+Community Awareness 
+
+At the time of the spill, Colonial had in place a 14-point public education program
+that it had designed to meet the requirements of 49 Code of Federal Regulations (CFR)
+Part  195.440,  which  requires  oil  pipelines  to  conduct  public  educational  programs.4
+Colonial’s public education program included mailing safety flyers to a targeted audience,
+including  apartment  dwellers,  living  within  1/8  mile  of  a  pipeline.  The  company  also
+provided direct mail pieces to those individuals who owned property where Colonial held
+easements.  These  materials  included  an  annual  wall  calendar  and  a  Colonial  road  atlas
+with  a  companion  booklet  that  contained  general  information  about  the  company.  The
+atlas and booklet were distributed every 5 years. 
+
+In  areas  where  Colonial  deemed  excavator  risk  particularly  high,  company
+representatives participated in meetings to educate public officials, emergency responders,
+and excavators. Additionally, the company distributed its atlas and companion booklet to
+some public officials and contractors. In both 1997 and 1998, Colonial had pipeline maps
+available for review at its tank farm during the emergency response coordination drills it
+held with the Knoxville Fire Department. 
+
+A  review  conducted  in  the  immediate  area  of  the  pipeline  failure  disclosed  that
+Colonial pipeline easements crossed five residential properties. Colonial records indicate
+that various public education items were mailed to two of these residences in November
+and  December  1997.  These  items  addressed  questions  such  as  how  to  detect  a  pipeline
+accident,  what  to  do  in  case  of  an  accident,  and  how  to  report  an  accident.  Thirteen
+
+4 Under 49 CFR 195.440, each operator shall establish a continuing education program to enable the
+public,  appropriate  government  organizations,  and  persons  engaged  in  excavation-related  activities  to
+recognize a hazardous liquid pipeline emergency and to report it to the operator or the fire, police, or other
+appropriate public officials.
+
+NTSB/PAB-01/01
+
+
+
+residents were interviewed. Of those, residents from two households stated that they were
+aware  of  a  pipeline  in  the  immediate  area.  One  resident  recalled  receiving  a  pamphlet
+explaining  Colonial’s  brush-clearing  operation;  however,  no  one  was  aware  of  any
+specific reporting action or personal protection measures to take in the event of a pipeline
+release, nor could they recall any safety awareness mailings from Colonial. 
+
+The  Knoxville  Fire  Department  hazardous  materials  emergency  response
+procedures  were  last  revised  and  approved  in  January  1999  by  the  Knoxville  County
+Emergency  Management  Agency.  Fire  department  personnel  have  received  training  in
+hazardous materials team operations provided by the Tennessee Emergency Management
+Agency.  These  training  courses  cover  hazardous  materials  incident  response  (incident
+command  system,  hazardous  material  identification,  notification,  protective  equipment,
+etc.) at the responder, operations specialist, and technician levels.
+
+According  to  fire  department  officials,  the  department  conducts  disaster  drills
+annually. The most recent disaster drill before the accident was on September 9, 1998. The
+scenario  involved  a  joint  multiagency  response  to  an  aircraft  crash  at  the  Knoxville
+Airport. The last chemical transportation accident drill was conducted in November 1998.
+This  simulated  an  accident  that  involved  a  highway  cargo  tank  containing  acid  and  the
+release of a toxic cloud that caused two injuries. In November 1997, the Knoxville Fire
+Department and Colonial conducted a joint training drill at a petroleum products terminal
+in Knoxville. The scenario involved a pipeline rupture at a storage tank and a 1,000-gallon
+gasoline spill. During a tour of its facility during December 1998, Colonial discussed with
+Knoxville  Fire  Department  personnel  its  pipeline  delivery  system,  spill  response
+procedures,  and  pipeline  location  maps  for  the  city  of  Knoxville.  In  its  review  of  this
+accident,  the  Knoxville  Fire  Department  identified  internal  operations  problems  in  its
+response,  including  the  use  of  trainees  and  the  fact  that  some  of  the  communications
+channels  monitored  by  the  fire  department  were  not  recorded.  Also,  fire  department
+officials identified an issue regarding the lack of pipeline location maps during the early
+stage of the emergency, which might have helped them locate pipelines in the complaint
+area. 
+
+Pipeline Information
+
+The pipeline was constructed in 1962 and put into service in early 1963. The pipe
+installed  was  10-inch-diameter,  Grade  5L  X-42,  0.250-inch  wall  thickness,  electric
+resistance weld (ERW) steel pipe. At the rupture site, the pipeline was installed on a slope
+and had a slight side bend to the left below the rupture (figure 1) in the downstream flow
+direction. Colonial records indicate that the pipe had asphalt enamel coating. A coating
+defect (wrinkled coating) was also evident 2 to 3 feet upstream of the rupture (figure 2).
+Safety Board investigators and Colonial personnel observed no visible damage to the pipe
+coating  that  remained  immediately  adjacent  to  the  rupture  area  before  the  pipe  was
+removed for examination. Colonial did not have a toughness requirement5 for pipe when it
+was purchased for this pipeline, and no pipeline industry standards had been established at
+that  time.  Since  July  13,  1990,  Colonial’s  line  pipe  purchasing  specifications  have  had
+minimum  toughness  requirements  that  include,  among  other  factors,  a  minimum
+acceptance criteria of 25 ft/lbs of absorbed energy at 32° F for Charpy V-Notch (Charpy)
+impact tests.6   
+
+NTSB/PAB-01/01
+
+
+
+Rupture 
+
+Site
+
+Figure 1. Pipeline on slope showing side bend to the left 
+beyond the rupture.
+
+5 As  a  result  of  its  investigation  of  a  March  23,  1994,  pipeline  accident  in  Edison,  New  Jersey,  the
+Safety  Board  issued  the  following  safety  recommendation  to  the  U.S.  Department  of  Transportation’s
+Research and Special Programs Administration (RSPA):
+
+P-95-2
+Develop  toughness  standards  for  new  pipe  installed  in  gas  and  hazardous  liquid  pipelines,
+especially in urban areas.
+
+In June 1995, in response to a request from RSPA, the American Petroleum Institute (API) organized a task
+group  to  revise  the  specification  for  line  pipe,  API  Specification  5L,  to  include  minimum  toughness
+requirements. In January 2000, the revised 42nd Edition of API Specification 5L was published. It contains
+two  pipe  product  specification  levels  with  Product  Specification  Level  2  (PSL-2)  having  a  required
+minimum fracture toughness level for new pipe. Safety Recommendation P-95-2 remains “Open-Acceptable
+Response.”
+
+6 Charpy V-Notch impact tests that measure the energy absorbed  by a given thickness of material at a
+
+given temperature were used to evaluate the fracture toughness of materials. 
+
+NTSB/PAB-01/01
+
+
+
+Rupture
+
+Wrinkled
+Coating
+
+Figure 2. Wrinkled coating 2 to 3 feet upstream of the circumferential crack that 
+terminates at the 9 o’clock position.
+
+A hydrostatic pressure test to 649 psig was completed on February 4, 1995, on the
+East  Knoxville  pipeline  segment.  The  maximum  operating  pressure  (MOP)  for  the
+pipeline was determined to be 519 psig at the Knoxville station, which calculates to 552
+psig at the rupture location. The allowable surge pressure, based on pipeline Federal safety
+regulations (1.1 x MOP), is 571 psig at the Knoxville station and 607 psig at the rupture
+location.  Colonial  records  indicate  that  the  typical  operating  pressure  at  the  rupture
+location  ranges  between  72  and  250  psig,  and  the  number  of  operating  cycles  for  that
+range is at least 144 per year for the East Knoxville section of the pipeline.
+
+Internal inspections with different types of “smart pigs” were performed in 1989
+and  1999.  The  1989  inspection  was  done  using  a  conventional  magnetic  flux  internal
+inspection tool. The internal inspection company graded the inspection log, and no defects
+were indicated at the rupture point. Colonial reported that repairs were made to other areas
+of the pipeline as a result of the 1989 inspection. 
+
+The pipeline was internally inspected again using a high-resolution magnetic flux
+inspection tool on February 8, 1999. The inspection tool became stuck at one of several
+dents about 4,000 feet upstream of the East Knoxville station (about 1.7 miles downstream
+of  the  rupture  site).  The  pipeline  was  pressurized  a  number  of  times  to  dislodge  the
+inspection tool and push it ahead. SCADA logs indicate that the pressure on the pipeline
+reached 546 psig at the Knoxville station, which calculates to approximately 580 psig at
+the rupture location. The effort to dislodge the tool using pressure was unsuccessful, and
+on the afternoon before the rupture, the section of pipe containing the tool was cut from
+the pipeline and replaced with new pipe. Product was transported through the line after the
+
+NTSB/PAB-01/01
+
+
+
+repair.  The  high-resolution magnetic flux  inspection indicated no  defects such as  dents,
+gouges, or significant corrosion at the failure location.
+
+Colonial  uses  an  impressed  current  cathodic  protection7  system  to  protect  its
+pipelines.  Company  records  indicate  that  the  rectifier  system  was  operating  properly
+before  the  accident.  Annual  corrosion  survey  records  for  3  years  prior  to  the  accident
+indicate the pipe-to-soil potential levels8 were  –0.85 volt or more negative with reference
+to a copper-copper sulfate reference electrode.9 
+
+Materials Laboratory Examination
+
+When the pipe was exposed, a circumferential crack was found around the top half
+of the pipe’s diameter (figure 3), and no pipe coating remained in the area of the crack.
+The crack was not located in a girth weld, visible dent, or gouge; however, the crack ran
+through an area of surface corrosion. Close examination of the fracture surface established
+that  the  crack  initiated  at  an  area  with  at  least  nine  separate  darkly  colored  thumbnail-
+shaped  corroded  regions  (thumbnails).  The  failure  initiation  region  was  centered  at  the
+3 o’clock position (looking downstream, toward East Knoxville) in the area of the external
+surface  corrosion.  The  thumbnail  shape,  dark  coloration,  and  fracture  surface  features
+were consistent with corroded preexisting cracks that initiated on the external surface of
+the  pipe  and  propagated  radially  inward.  None  of  these  preexisting  cracks  penetrated
+through the pipe wall, with 0.120-inch being the deepest penetration observed, which was
+48 percent of the nominal pipe wall thickness. Similar corroded preexisting cracks were
+noted nearby in the surface corrosion area.
+
+The  crack  ran  in  both  directions  from  its  initiation  point.  The  crack  propagated
+clockwise past the longitudinal weld seam. In the clockwise direction, the brittle fracture
+extended less than 0.5 inch before changing to a ductile fracture. In the counterclockwise
+direction,  the  brittle  fracture  extended  over  the  top  of  the  pipe  to  approximately  the
+9 o’clock position, where it also terminated in a ductile fracture. (Refer to figure 2.) 
+
+Scanning  electron  microscope  examination  of  the  fracture  face  revealed  heavy
+oxide deposits on the thumbnails that obscured some and obliterated other fracture details;
+however, sufficient detail was visible to indicate that the thumbnails originated at shallow
+corrosion pits on the external surface. Each of the thumbnail regions was associated with
+surface  corrosion  damage  and  typically  had  one  or  two  crack  origin  sites.  In  some
+
+7 Cathodic  protection  is  a  corrosion  mitigation  method  used  by  the  pipeline  industry  to  protect
+underground metal pipes. The system uses rectifier stations along the pipeline to supply protective electrical
+current.  Cathodic  protection  current  is  forced  to  flow  in  the  opposite  direction  of  currents  produced  by
+corrosion cells. A rectifier converts alternating current from the utility service to direct current and supplies
+it to a ground bed that typically contains a string of suitable anodes, with soil as an electrolyte, to provide a
+path for the current from the rectifier to the pipeline. A cable connected to the pipeline provides the return
+path to complete the circuit.
+
+8 The  pipe-to-soil  potential  is  defined  as  “the  voltage  difference  between  a  buried  metallic structure
+[pipe]  and  the  electrolyte  [soil],  measured  with  a  reference  electrode  in  contact  with  the  soil.”  From
+H.L. Gordon, Cathodic Protection, Power Plant Electrical Reference Series, Project 2334, Electric Power
+Research Institute, Palo Alto, California, 1991, vol. 11, p. 11.2.
+
+9 Pipeline companies perform pipe-to-soil potential surveys by measuring and recording the voltages
+and currents at test stations along the pipeline and at rectifiers. Measurement intervals vary widely from less
+than 100 feet in some locations to several miles in others.
+
+NTSB/PAB-01/01
+
+
+
+Figure 3. Circumferential crack on top half of pipe with failure initiation region at the 
+3 o’clock position.
+
+instances, crack arrest marks were visible within the thumbnail regions. The preexisting
+crack  features  in  the  failure  initiating  area  were  consistent  with  environment-induced
+cracking.10 
+
+After  the  accident,  Colonial  had  an  independent  lab  perform  Charpy  tests  on
+specimens prepared from the failed pipe joint. Longitudinal pipe specimens were tested at
+temperatures ranging between 25° and 170° F. The full-size energy values11 for absorbed
+energy in the longitudinal direction were from 3.4 to 21.8 ft/lbs between 25° and 65° F,
+and 40.2 ft/lbs at 85° F. The results between 105° and 170° F were from 62 to 77.1 ft/lbs.
+
+The Safety Board also had Charpy testing performed on test specimens taken in
+proximity  to  the  rupture.  The  tests  were  conducted  in  both  the  longitudinal  and
+circumferential direction at a range of temperatures between 0° and 85° F. The test results
+in the longitudinal direction indicate absorbed energy values from 4.2 to 15 ft/lbs between
+0° and 65° F, and 54 ft/lbs at 85° F. The results in the circumferential direction indicate
+values from 4.6 to 22 ft/lbs between 0° and 85° F. 
+
+10 Environment-induced cracking occurs due to the combined effects  of tensile stress and a corrosive
+environment. If a susceptible material under static tensile stress is exposed to a specific corrosive medium,
+the failure is defined as stress corrosion cracking. If the material is exposed to cyclic tensile stresses in a
+corrosive environment, the failure is defined as corrosion fatigue.
+
+11 Sub-size  specimens  were  tested  and  full-size  energy  values  were  calculated  in  accordance  with
+
+ASTM  E23 for all Charpy absorbed energy data.
+
+NTSB/PAB-01/01
+
+Actions Taken Since the Accident
+
+10
+
+Since the accident, Colonial has updated its public education program to reach a
+target audience within a minimum of 1/4 mile of its pipeline operating area, regardless of
+whether the property is traversed by a pipeline easement. Colonial has also updated the
+educational  information  in  its  safety  pamphlet  and  upgraded  the  method  by  which  the
+safety information is communicated to the target audience. Colonial has also updated its
+public education program mailings to better reach its target audience. The first paragraph
+of  each  educational  mailing  now  encourages  the  initial  reader  to  share  the  information
+with all members of the household.
+
+In  addition,  Colonial  has  upgraded  its  written  procedures  for  establishing  and
+maintaining liaison with fire, police, and other agencies that might respond to a hazardous
+liquid  pipeline  emergency.  The  procedures  identify  the  methods  to  be  used,  the
+information to be shared, and the frequency of the contacts.
+
+Since  the  Knoxville  accident,  Colonial’s  control  center  operations  manual  for
+abnormal  and  emergency  operations  has  been  amended  to  include  the  following:  “Any
+time  an  unscheduled  shutdown  occurs,  the  line  will  only  be  re-started  with  the
+concurrence of a Senior Controller.” At the time of the accident, Colonial’s control center
+operations  manual  directed  that  for  continuous  minor  hourly  shortages,  the  controller
+would  investigate  by  having  all  active  facilities  “prove”  (verify  the  accuracy  of)  the
+meters.  If  proving  meters  did  not  correct  the  shortages,  controllers  were  to  contact  the
+senior  controller  for  a  decision  to  possibly  pressure-test  the  line  or  shut  it  down  for
+inspection.  Colonial’s  control  center  operations  manual  for  emergency  operations
+involving leaks or suspected leaks has been amended to include the following: 
+
+Any time a line is shut down to investigate a continuous minor hourly shortage,
+the line will only be re-started with the concurrence of a representative from the
+Engineering Services Team.
+
+Colonial  is  using  the  details surrounding  this  event  in  various  training scenarios
+and  has  added  the  Knoxville  accident  scenario  to  its  maximum  critical  event  training.
+Colonial uses simulator training as part of its controller training.
+
+Colonial  is  continuing  its  efforts  to  install  an  automated  leak  detection  system.
+Colonial  is  currently  installing  a  batch  tracking  system  on  a  Colonial  stubline  system
+similar to the one involved in this accident. This new system is expected to aid the pipeline
+controller in identifying variances in the amount of product shipped versus the amount of
+product delivered. Any discrepancies identified above a predetermined threshold will be
+investigated as a possible leak. Colonial has experienced some difficulty in completing the
+installation of this system but anticipates completion in the first half of 2001. Once the
+first  system  is  successfully  installed,  Colonial  anticipates  installing  the  batch  tracking
+system  on  other  stublines.  When  all  the  stublines  are  addressed,  Colonial  anticipates
+attempting to apply the same batch tracking system to the company’s mainlines, although
+the company expressed some concern about the effect that the size and the complexity of
+the mainlines will have on the performance of the batch tracking system.
+
+Colonial is developing a formal, documented strategic plan on how to approach the
+identification,  evaluation,  and  application  of  technology  to  leak  detection  on  Colonial’s
+
+NTSB/PAB-01/01
+
+11
+
+system. This plan is scheduled to be fully developed in 2001. The objective of the plan is
+to  find  and  implement  effective  means  of  leak  detection  and  to  comply  with  the  new
+Office  of  Pipeline  Safety  regulations  on  integrity  management  of  pipelines  that  affect
+high-consequences areas.
+
+The  Knoxville  Fire  Department  incident  commander  held  a  postaccident
+debriefing with Knoxville communication center personnel, established  new procedures
+for  the  communications  center,  and  requested  that  Colonial  provide  maps  for  fire
+department use. Because of the delay in notifying Colonial that occurred in this accident,
+procedures have been changed so that (1) the communications center will not rely solely
+on dispatcher trainees during periods of heavy workload; (2) the supervisors will assist the
+dispatcher  during  periods  of  heavy  workload;  and  (3)  the  communications  center  will
+record  all  communications  channels  to  create  a  record  of  emergency  response
+conversations.
+
+Also  at  the  request  of  the  Knoxville  Fire  Department,  Colonial  provided  the
+department with pipeline location maps to be carried by fire department units responding
+to calls involving the possible release of hazardous materials. The department also uses
+the maps during annual fire department training sessions at the Colonial terminal facility.
+
+Probable Cause
+
+The National Transportation  Safety Board determines that the probable cause of
+this  accident  was  pipe  rupture  initiated  by  environment-induced  cracking  in  an  area  of
+pipe  coating  failure.  A  contributing  factor  to  the  failure  was  the  relatively  low  fracture
+toughness of the pipe. Contributing to the severity of the accident was Colonial Pipeline
+Company’s failure to determine from the supervisory control and data acquisition system
+that a leak had occurred, with the result that the pipeline controller started and restarted the
+pipeline, thereby increasing the amount of diesel fuel that was released. 
+
+Approved: March 28, 2001
+
+NTSB/PAB-01/01
+
+

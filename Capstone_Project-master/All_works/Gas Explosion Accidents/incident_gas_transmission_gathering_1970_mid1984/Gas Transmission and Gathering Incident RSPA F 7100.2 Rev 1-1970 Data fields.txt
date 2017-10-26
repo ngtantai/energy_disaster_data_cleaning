@@ -1,0 +1,331 @@
+ 
+Natural Gas Transmission and Gathering Incident data file fields from 1970 to mid-1984              
+                                                                                                    
+****************************************************************************************************
+The following table describes the fields in the accompanying TXT files. The table shows the field 
+name used by PHMSA Pipeline Safety, the data type, a description of the field's meaning and the 
+field's location on the Transmission and Gathering incident report RSPA F 7100.2 (1-70).            
+****************************************************************************************************
+                                                                                                    
+FIELD NAME                              TYPE      DESCRIPTION                                       
+                                                                                                    
+----------------------------------------------------------------------------------------------------
+IYEAR                                   Integer   Year the incident occurred.                       
+----------------------------------------------------------------------------------------------------
+REPORT_ID                               Integer   Report tracking number assigned by OPS.           
+----------------------------------------------------------------------------------------------------
+LEAK_OR_TEST_FAILURE                    Text      Was report a leak or a test failure.              
+----------------------------------------------------------------------------------------------------
+CAUSE_IDENTIFIER                        Text      Specific cause of incident.                       
+----------------------------------------------------------------------------------------------------
+OPERATOR_CODE                           Integer   Operator's five-digit code assigned by OPS.       
+----------------------------------------------------------------------------------------------------
+OPERATOR_NAME                           Text      Operator's name.                                  
+----------------------------------------------------------------------------------------------------
+SHEAR_FRACTURE_FEET                     Integer   Length of shear fracture in feet.                 
+----------------------------------------------------------------------------------------------------
+CLEAVAGE_FRACTURE_FEET                  Integer   Length of cleavage fracture.                      
+----------------------------------------------------------------------------------------------------
+TOUGHNESS_TEST                          Text      Fracture toughness test made on failed material?  
+----------------------------------------------------------------------------------------------------
+METALLURGICAL_ANALYSIS                  Text      Metallurgical analysis planned.                   
+----------------------------------------------------------------------------------------------------
+INCIDENT_ADDRESS                        Text      Street address where incident occurred.           
+----------------------------------------------------------------------------------------------------
+INCIDENT_CITY                           Text      City where incident occurred.                     
+----------------------------------------------------------------------------------------------------
+INCIDENT_COUNTY                         Text      County where incident occurred.                   
+----------------------------------------------------------------------------------------------------
+INCIDENT_STATE                          Text      State where incident occurred.                    
+----------------------------------------------------------------------------------------------------
+ZIP_CODE                                Text      Zip code where incident occurred.                 
+----------------------------------------------------------------------------------------------------
+INCIDENT_DATE                           Date      Date the incident occurred.                       
+----------------------------------------------------------------------------------------------------
+DETECTION_TIME                          Integer   Time of detection                                 
+----------------------------------------------------------------------------------------------------
+STOPPAGE_HOURS                          Integer   Hours between time of detection and time escape 
+                                                  of gas was stopped                                
+----------------------------------------------------------------------------------------------------
+STOPPAGE_MINUTES                        Integer   Minutes between time of detection and time escape 
+                                                  of gas was stopped                                
+----------------------------------------------------------------------------------------------------
+EST_INCIDENT_PRESSURE                   Real      Estimated pressure at time of incident.           
+----------------------------------------------------------------------------------------------------
+MAX_ALLOWABLE_PRESSURE                  Real      Maximum allowable operating pressure.             
+----------------------------------------------------------------------------------------------------
+LEAK_PART                               Text      Part of operation that failed.                    
+----------------------------------------------------------------------------------------------------
+LEAK_PART_OTHER                         Text      Part of operation that failed not specified on 
+                                                  report.                                           
+----------------------------------------------------------------------------------------------------
+FAIL_PART                               Integer   Part of system that failed                        
+----------------------------------------------------------------------------------------------------
+FAIL_PART_OTHER                         Text      Part of system that failed not specified on 
+                                                  report.                                           
+----------------------------------------------------------------------------------------------------
+YEAR_PART_INSTALLED                     Integer   Year the part of system was installed.            
+----------------------------------------------------------------------------------------------------
+MATERIAL_LEAKED                         Text      Material of system that leaked.                   
+----------------------------------------------------------------------------------------------------
+MATERIAL_LEAKED_OTHER                   Text      Material of system that leaked not specified on 
+                                                  report.                                           
+----------------------------------------------------------------------------------------------------
+ORIGIN_LEAK                             Text      Where leak originated.                            
+----------------------------------------------------------------------------------------------------
+ORIGIN_LEAK_OTHER                       Text      Where leak originated not specified on report.    
+----------------------------------------------------------------------------------------------------
+NOMINAL_DIAMETER                        Real      Nominal pipe diameter in inches.                  
+----------------------------------------------------------------------------------------------------
+THICKNESS                               Real      Pipe wall thickness in inches.                    
+----------------------------------------------------------------------------------------------------
+SPECIFICATION                           Text      Pipe specifications.                              
+----------------------------------------------------------------------------------------------------
+GRADE                                   Text      Pipe grade.                                       
+----------------------------------------------------------------------------------------------------
+TYPE_REPAIR_PIPE                        Text      Type of repair done.                              
+----------------------------------------------------------------------------------------------------
+LENGTH_REPLACED_PIPE                    Real      Replaced Pipe length                              
+----------------------------------------------------------------------------------------------------
+TYPE_REPAIR_PIPE_OTHER                  Text      Type of repair done not specified on report.      
+----------------------------------------------------------------------------------------------------
+REPAIR_COMPONENT                        Text      Component was replaced or reconditioned.          
+----------------------------------------------------------------------------------------------------
+REPAIR_COMPONENT_OTHER                  Text      Component was handled in a way not specified on 
+                                                  report.                                           
+----------------------------------------------------------------------------------------------------
+EMPLOYEE_FATALITIES                     Integer   Number of operator employee fatalities.           
+----------------------------------------------------------------------------------------------------
+EMPLOYEE_INJURIES                       Integer   Number of operator employee injuries.             
+----------------------------------------------------------------------------------------------------
+NON_EMPLOYEE_FAT                        Integer   Number of operator non- employee fatalities.      
+----------------------------------------------------------------------------------------------------
+NON_EMPLOYEE_INJURIES                   Integer   Number of operator non- employee injuries.        
+----------------------------------------------------------------------------------------------------
+RUPTURE_OCCURED                         Text      Did a rupture occur?                              
+----------------------------------------------------------------------------------------------------
+GAS_IGNITED                             Text      Did gas ignite?                                   
+----------------------------------------------------------------------------------------------------
+EXPLOSION_OCCURED                       Text      Did an explosion occur?                           
+----------------------------------------------------------------------------------------------------
+SECONDARY_EXPLO_FIRE                    Text      Did incident induce any secondary fires or 
+                                                  explosions?                                       
+----------------------------------------------------------------------------------------------------
+OPERATORS_PROP_DAMAGE                   Integer   Operators Property Damage                         
+----------------------------------------------------------------------------------------------------
+AREA_TIME_CONSTR                        Text      Type of area at time of construction.             
+----------------------------------------------------------------------------------------------------
+AREA_TIME_CONSTR_OTHER                  Text      Type of area at time of construction not 
+                                                  specified on report.                              
+----------------------------------------------------------------------------------------------------
+AREA_TIME_INC                           Text      Type of area at time of incident.                 
+----------------------------------------------------------------------------------------------------
+AREA_TIME_INC_OTHER                     Text      Type of area at time of incident not specified on 
+                                                  report.                                           
+----------------------------------------------------------------------------------------------------
+ADJACENT_STRUCT                         Text      Predominant above-ground structure adjacent to 
+                                                  leak.                                             
+----------------------------------------------------------------------------------------------------
+ADJACENT_STRUCT_OTHER                   Text      Adjacent structure not specified on report.       
+----------------------------------------------------------------------------------------------------
+DISTANCE_STRUCTURE                      Integer   Distance to nearest structure.                    
+----------------------------------------------------------------------------------------------------
+CONTRIBUTING_FACILIT                    Text      Did an underground facility contribute to the 
+                                                  incident?                                         
+----------------------------------------------------------------------------------------------------
+EFFECT_OTHER_FACILIT                    Text      What was the underground facility's affect?       
+----------------------------------------------------------------------------------------------------
+UTILITIES_IMPERILED                     Integer   Any utilities imperiled?                          
+----------------------------------------------------------------------------------------------------
+DISTA_OTHER_GAS_CONTRI                  Integer   Distance of other gas facility contributing.      
+----------------------------------------------------------------------------------------------------
+DISTA_OTHER_GAS_IMPRD                   Integer   Distance of other gas facility impaired.          
+----------------------------------------------------------------------------------------------------
+DISTA_TELEPHONE_CONTRI                  Integer   Distance of telephone facility contributing.      
+----------------------------------------------------------------------------------------------------
+DISTA_TELEPHONE_IMPRD                   Integer   Distance of telephone facility impaired.          
+----------------------------------------------------------------------------------------------------
+DISTA_ELECTRIC_CONTRI                   Integer   Distance of electric facility contributing.       
+----------------------------------------------------------------------------------------------------
+DISTA_ELECTRIC_IMPRD                    Integer   Distance of electric facility impaired.           
+----------------------------------------------------------------------------------------------------
+DISTA_SEWER_STORM_CONT                  Integer   Distance of storm sewer facility contributing.    
+----------------------------------------------------------------------------------------------------
+DISTA_SEWER_STORM_IMPA                  Integer   Distance of storm sewer facility impaired.        
+----------------------------------------------------------------------------------------------------
+DISTA_SEWER_OTHER_CONT                  Integer   Distance of other sewer facility contributing.    
+----------------------------------------------------------------------------------------------------
+DISTA_SEWER_OTHER_IMPA                  Integer   Distance of other sewer facility impaired.        
+----------------------------------------------------------------------------------------------------
+DISTA_WATER_CONTR                       Integer   Distance of water facility contributing.          
+----------------------------------------------------------------------------------------------------
+DISTA_WATER_IMPAR                       Integer   Distance of water facility impaired.              
+----------------------------------------------------------------------------------------------------
+DISTA_OTHER_CONTR                       Integer   Distance of other facility contributing.          
+----------------------------------------------------------------------------------------------------
+OTHER_CONTR                             Text      Other facility contributing.                      
+----------------------------------------------------------------------------------------------------
+DISTANCE_OTHER_IMPARD                   Integer   Distance of other facility impaired.              
+----------------------------------------------------------------------------------------------------
+OTHER_IMPARD                            Text      Other facility impaired.                          
+----------------------------------------------------------------------------------------------------
+LOCATION_LEAK                           Text      Location of leak or failure.                      
+----------------------------------------------------------------------------------------------------
+LOCATION_LEAK_OTHER                     Text      Location of leak or failure not specified on 
+                                                  report.                                           
+----------------------------------------------------------------------------------------------------
+COVER_DEPTH                             Integer   Depth of cover (inches) if  pipe was below ground.
+----------------------------------------------------------------------------------------------------
+SOIL_INFORMATION                        Integer   Soil at pipe depth.                               
+----------------------------------------------------------------------------------------------------
+SOIL_TEMPERATURE                        Text      Soil temperature at soil leak.                    
+----------------------------------------------------------------------------------------------------
+REPORT_QUALIFIER_XMIT                   Text      Leak or test failure from ALTRN table (see 
+                                                  header).                                          
+----------------------------------------------------------------------------------------------------
+RECORD_VALID                            Integer   Record valid                                      
+----------------------------------------------------------------------------------------------------
+DATE_OF_ENTRY                           Date      Date record inserted into database.               
+----------------------------------------------------------------------------------------------------
+DATE_OF_CHANGE                          Date      Date of most recent change to record.             
+----------------------------------------------------------------------------------------------------
+LOCATION_CORROSION                      Text      Internal or External.                             
+----------------------------------------------------------------------------------------------------
+DESCRIPTION_CORROSION                   Text      Pitting or general.                               
+----------------------------------------------------------------------------------------------------
+CAUSE_CORROSION                         Text      Cause of corrosion.                               
+----------------------------------------------------------------------------------------------------
+CAUSE_CORROSION_OTHER                   Text      Corrosion cause not specified on report.          
+----------------------------------------------------------------------------------------------------
+COATING                                 Text      Type of coating.                                  
+----------------------------------------------------------------------------------------------------
+YEAR_COATING                            Integer   Year coating applied.                             
+----------------------------------------------------------------------------------------------------
+METHOD_APPLICATION                      Text      Method of coating application                     
+----------------------------------------------------------------------------------------------------
+COATING_MATERIAL                        Text      Material used of coating                          
+----------------------------------------------------------------------------------------------------
+COATING_MATERIAL_OTHER                  Text      Coating material not specified on report.         
+----------------------------------------------------------------------------------------------------
+CAUSE_COAT_FAIL                         Text      Cause of coating failure.                         
+----------------------------------------------------------------------------------------------------
+CAUSE_COAT_FAIL_OTHER                   Text      Cause of coating failure not specified on report. 
+----------------------------------------------------------------------------------------------------
+CATHODIC_PROTECTION                     Text      Was cathodic protection applied?                  
+----------------------------------------------------------------------------------------------------
+YEAR_CATH_PROT_STARTED                  Integer   year when cathodic protection started             
+----------------------------------------------------------------------------------------------------
+TYPE_CATH_PROT                          Text      type of cathodic protection.                      
+----------------------------------------------------------------------------------------------------
+TYPE_CATH_PROT_OTHER                    Text      Type of cathodic protection not specified on 
+                                                  report.                                           
+----------------------------------------------------------------------------------------------------
+PH_SOIL                                 Real      PH level                                          
+----------------------------------------------------------------------------------------------------
+SOIL_RESISTIVITY                        Integer   Last soil resistivity measurement in the area of 
+                                                  leak(ohm-cm)                                      
+----------------------------------------------------------------------------------------------------
+SOIL_TEST_YEAR                          Integer   The year soil test is conducted.                  
+----------------------------------------------------------------------------------------------------
+DISTANCE_FROM_LEAK                      Integer   Distance test was from leak                       
+----------------------------------------------------------------------------------------------------
+PIPE_SOIL_POTENTIAL_1                   Real      Pipe-to-soil potential measure on one side of 
+                                                  leak.                                             
+----------------------------------------------------------------------------------------------------
+PIP_SOIL_POTENTIAL_2                    Real      Pipe-to-soil potential measure on the other side 
+                                                  of leak.                                          
+----------------------------------------------------------------------------------------------------
+DISTA_LEAK_MEASURE_1                    Integer   Distance of measure on one side of leak.          
+----------------------------------------------------------------------------------------------------
+DISTA_LEAK_MEASURE_2                    Integer   Distance of measure on the other side of leak.    
+----------------------------------------------------------------------------------------------------
+POTENTIAL_YEAR                          Integer   Year potential was last measured.                 
+----------------------------------------------------------------------------------------------------
+CAUSE_LEAK                              Text      Primary outside force cause.                      
+----------------------------------------------------------------------------------------------------
+CAUSE_LEAK_OTHER                        Text      Outside force cause not specified on report.      
+----------------------------------------------------------------------------------------------------
+PRIOR_NOTIFICATION                      Integer   Was prior notification given?                     
+----------------------------------------------------------------------------------------------------
+DATE_NOTIFICATION                       Date      Date of notification.                             
+----------------------------------------------------------------------------------------------------
+NOTIFICATION_TIME                       Integer   Time of notification.                             
+----------------------------------------------------------------------------------------------------
+PIPELINE_MARKED                         Text      Was pipeline marked?                              
+----------------------------------------------------------------------------------------------------
+TYPE_MARKING                            Text      If pipe is marked, then type of marking           
+----------------------------------------------------------------------------------------------------
+TYPE_MARKING_OTHER                      Text      Type of marking not specified on report.          
+----------------------------------------------------------------------------------------------------
+STATUTE_REQUIRE_MARKING                 Text      Does a statute require outside party to determine 
+                                                  location?                                         
+----------------------------------------------------------------------------------------------------
+DAM_BY_EARTH_MOVE                       Text      Damage by natural earth movement                  
+----------------------------------------------------------------------------------------------------
+DAM_BY_EARTH_MOVE_OTHER                 Text      Damage by natural earth movement not specified on 
+                                                  report.                                           
+----------------------------------------------------------------------------------------------------
+EARTH_MOVE_CAUS_BY_OTHER                Text      Earth movement caused by action of others?        
+----------------------------------------------------------------------------------------------------
+EARTH_MOVEMENT_OTHER                    Text      Description of earth movement caused by action of 
+                                                  others.                                           
+----------------------------------------------------------------------------------------------------
+CAUSE_LEAK_CONSTR                       Text      Construction defect or material failure.          
+----------------------------------------------------------------------------------------------------
+PIPE_MANUFACTURER                       Text      Pipe manufacturer company                         
+----------------------------------------------------------------------------------------------------
+STATE_PIPE_MANU                         Text      State where pipe is manufactured.                 
+----------------------------------------------------------------------------------------------------
+CITY_PIPE_MANU                          Text      City where pipe is manufactured.                  
+----------------------------------------------------------------------------------------------------
+YEAR_MANUFAC                            Integer   Year when pipe is manufactured.                   
+----------------------------------------------------------------------------------------------------
+EXPANDED_PIPE                           Text      Expanded or nonexpanded.                          
+----------------------------------------------------------------------------------------------------
+METHOD_TRANS                            Text      Method of transport.                              
+----------------------------------------------------------------------------------------------------
+METHOD_TRANS_OTHER                      Text      Method of transport not specified on report.      
+----------------------------------------------------------------------------------------------------
+STEEL_CLASS                             Text      Type of steel pipe class.                         
+----------------------------------------------------------------------------------------------------
+PLASTIC                                 Text      Type of plastic pipe class                        
+----------------------------------------------------------------------------------------------------
+PLASTIC_REINFORCED                      Text      Was plastic reinforced?                           
+----------------------------------------------------------------------------------------------------
+CAST_IRON                               Text      Type of Iron pipe class                           
+----------------------------------------------------------------------------------------------------
+OTHER_MATERIAL                          Text      description if pipe class is other than steel, 
+                                                  plastic or iron                                   
+----------------------------------------------------------------------------------------------------
+CONSTRUCTION_TYPE                       Text      Construction type at the time of leak or failure  
+----------------------------------------------------------------------------------------------------
+INITIAL_TEST                            Text      Was strength test done at time of installation.   
+----------------------------------------------------------------------------------------------------
+TEST_MEDIUM_INIT                        Integer   Which medium used for the strength test           
+----------------------------------------------------------------------------------------------------
+TEST_MEDIUM_INIT_OTHER                  Text      Test medium not specified on report.              
+----------------------------------------------------------------------------------------------------
+YEAR_INITIAL_TEST                       Integer   The initial strength test execution year.         
+----------------------------------------------------------------------------------------------------
+MINIMUM_TEST_PRES_INIT                  Integer   Minimum pressure at the time of strength test     
+----------------------------------------------------------------------------------------------------
+TIME_HELD_PRES_INIT                     Integer   Number of hours test pressure held for initial 
+                                                  strength test                                     
+----------------------------------------------------------------------------------------------------
+PRESSURE_LEAK_INIT                      Integer   Estimated test pressure at point of leak.         
+----------------------------------------------------------------------------------------------------
+SUBSEQUENT_TEST                         Text      Was strength test done at any time subsequently.  
+----------------------------------------------------------------------------------------------------
+TEST_MEDIUM_SUBSEQ                      Integer   Which medium used for the subsequent test         
+----------------------------------------------------------------------------------------------------
+TEST_MEDIUM_SUBS_OTHER                  Text      Test medium not specified on report.              
+----------------------------------------------------------------------------------------------------
+YEAR_SUBSEQ_TEST                        Integer   The subsequent test execution year.               
+----------------------------------------------------------------------------------------------------
+MINIUM_TEST_PRES_SUBS                   Integer   Minimum pressure at the time of subsequent test   
+----------------------------------------------------------------------------------------------------
+TIME_HELD_PRES_SUBSEQ                   Integer   Number of hours test pressure held for subsequent 
+                                                  test.                                             
+----------------------------------------------------------------------------------------------------
+PRES_LEAK_SUBSEQ                        Integer   Estimated test pressure at point of leak.         
+----------------------------------------------------------------------------------------------------

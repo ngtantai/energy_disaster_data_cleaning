@@ -1,0 +1,1 @@
+var repLoc = "San Francisco";var repCty = "San Francisco";var repState = "California";var el = "R1Bd_N1BJW9Jv";var ec = "R1Bd_N1BJW9Jv";var es = "e1aWQvNBW1";

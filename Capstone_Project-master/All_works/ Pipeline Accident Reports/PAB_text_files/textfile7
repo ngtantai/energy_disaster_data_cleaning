@@ -1,0 +1,751 @@
+R A SP
+
+N
+ 
+
+O
+
+E P L U RIBUS UNUM 
+
+NAL  T
+
+ 
+
+O
+I
+T
+A
+N
+
+R
+
+T
+
+A
+
+T
+
+I
+
+O
+N
+
+ 
+
+ 
+
+ 
+
+S
+
+AFETY
+
+ 
+
+ B O A R D
+
+Accident No.: 
+Type of System: 
+Accident Type: 
+Location: 
+Date: 
+Time: 
+Owner: 
+Facility: 
+Operator: 
+Fatalities/Injuries: 
+Damage/Clean-up Cost: 
+Material Released: 
+Quantity Released: 
+Pipeline Pressure: 
+Component Affected: 
+
+ 
+
+The Accident 
+
+National Transportation Safety Board 
+
+Washington, D.C. 20594 
+
+Pipeline Accident Brief 
+
+ 
+
+DCA05-MP001 
+Hazardous liquid 
+Pipeline rupture and leak with vapor cloud 
+6 miles west of Kingman, Kansas 
+October 27, 2004 
+11:15 a.m. central daylight time 
+Magellan Midstream Partners, L.P. 
+Magellan Ammonia Pipeline/Enid Lateral 
+Enterprise Products Operating L.P. 
+None 
+$680,715 
+Anhydrous ammonia 
+4,858 barrels (204,000 gallons) 
+981 psig 
+Pipe 
+
+About 11:15 a.m. central daylight time1 on October 27, 2004, an 8-inch-diameter pipeline 
+owned by Magellan Midstream Partners, L.P., (Magellan) and operated by Enterprise Products 
+Operating L.P. (Enterprise) ruptured near Kingman, Kansas, and released approximately 4,858 
+barrels  (204,000  gallons)  of  anhydrous  ammonia.2  Nobody  was  killed  or  injured  due  to  the 
+release. The anhydrous ammonia leaked into a creek and killed more than 25,000 fish including 
+some from threatened species. The cost of the accident was $680,715, including $459,415 for 
+environmental remediation. 
+Accident Narrative  
+
+On October 27, 2004, a pipeline controller in the Enterprise control center in Houston, 
+Texas, was operating an 8-inch-diameter anhydrous ammonia pipeline owned by Magellan. The 
+                                                 
+
+1 All times in this brief are central daylight time. 
+2  Anhydrous  ammonia  is  classified  in  49  Code  of  Federal  Regulations  (CFR)  Part  195  as  a  highly  volatile 
+liquid.  Anhydrous  ammonia  is  transported  as  a  liquefied  gas  in  a  pipeline  and,  when  released,  will  immediately 
+return to a gaseous state and rapidly expand. It is a hazardous liquid that is highly corrosive and toxic, and its vapors 
+also  are  extremely  irritating  and  corrosive.  Anhydrous  ammonia  may  be  fatal  if  inhaled,  ingested,  or  absorbed 
+through the skin. 
+
+NTSB/PAB-07/02 
+
+ammonia pipeline runs from Borger, Texas, to Mankato, Minnesota. The Enid Lateral segment of 
+the ammonia pipeline originates at the Koch Enid production facility in Enid, Oklahoma, runs 
+through Harper Station (Kansas), and ties in to the mainline at Partridge Station. (See figure 1.)  
+
+ 
+
+Figure 1. Map of Magellan ammonia pipeline showing rupture location on 8-inch Enid Lateral. 
+
+ 
+When the pipeline controller returned to his console after getting his lunch, he noticed 
+two rate-of-change alarms3 that had been displayed on the alarm screen for the ammonia pipeline 
+less  than  a  minute  earlier.  The  supervisory  control  and  data  acquisition  (SCADA)  event  log 
+indicated  negative  rate-of-change  alarms  for  suction  pressure  at  both  Harper  Station  (at 
+11:15:43 a.m.) and Conway Station (at 11:16:27 a.m.).  
+
+About 11:18 a.m., an off-duty volunteer firefighter traveling on Highway 54 called 911 to 
+report  a  huge  vapor  cloud  on  the  north  side  of  the  highway  that  he  believed  was  a  pipeline 
+release.  (See  figure  2.) The  911  center  in  Kingman  County,  Kansas,  is  in  the  county  sheriff’s 
+office. The Kingman County Fire Department was dispatched to the rupture site about 11:20 a.m. 
+Because  the  rupture  site  was  in  an  agricultural  area  that  is  home  to  several  threatened  and 
+endangered species of fish and wildlife, it was designated by Enterprise as a high-consequence 
+area.4  The  vapor  cloud  moved  northwest  from  the  rupture  and  affected  vegetation  in  an  area 
+                                                 
+
+3 A rate-of-change alarm is displayed when a change in pressure or flow exceeds an identified value. 
+4 A high-consequence area is defined in the Federal pipeline safety regulations as a commercially navigable 
+waterway, high- or concentrated-population area, or unusually sensitive area that might be affected by an accident 
+
+2
+
+NTSB/PAB-07/02 
+
+approximately  1/2  mile  wide  and  1  1/2  miles  long. The  release  entered  an  unnamed  tributary 
+stream  that  was  approximately  36  feet  from  the  pipeline  failure.  The  tributary  stream  enters 
+Smoots Creek approximately 1 1/2 miles downstream of the rupture. 
+
+ 
+
+Figure 2. Ammonia vapor cloud moving northwest from pipeline rupture. 
+
+Between 11:19:34 a.m. and 11:19:55 a.m., four more alarms from Conway Station were 
+displayed at the controller’s console, including low suction pressure,5 low-low suction pressure,6 
+an  uncommanded  pump  shutdown,  and  a  rate-of-change  alarm  that  was  followed  by  a  low 
+suction pressure alarm from Partridge Station. Then two additional rate-of-change alarms were 
+displayed, at 11:20:31 a.m. from Conway and at 11:21:26 a.m. from Partridge. In the 13 seconds 
+between 11:27:33 a.m. and 11:27:46 a.m., five additional alarms were displayed, including low 
+flow  and  the  uncommanded  shutdown  of  Abilene  Station.  At  11:27:50  a.m.,  the  controller 
+increased the flow rate set point on the flow control valve at Enid Station from approximately 
+450 barrels per hour to 550 barrels per hour. At 11:27:51 a.m., a second low-low suction pressure 
+alarm from Conway Station was displayed.  
+
+                                                                                                                                                             
+involving the pipeline. Title 49 CFR 195.450 contains the criteria for designating an area a high-consequence area 
+for hazardous liquid pipelines.  
+
+5 A low suction pressure alarm for a pump at a pump station along a pipeline can be set at a value selected by 
+
+the pipeline controller (higher than low-low) as a warning of an abnormal condition or a possible pipeline leak. 
+
+6  A  low-low  suction  pressure  alarm  is  a  high  level  (red)  alarm  in  the  SCADA  system  that  is  considered  an 
+
+immediate response alarm. 
+
+3
+
+NTSB/PAB-07/02 
+
+The  controller  knew  that  Enterprise  maintenance  personnel  were  working  at  Conway 
+Station. In a telephone call to Conway Station at 11:28 a.m., he asked why the pump had shut 
+down. By 11:30 a.m., Conway Station personnel had told the controller that they had not caused 
+the pump to shut down. At 11:34:05 a.m., the SCADA system displayed a low suction pressure 
+rate-of-change alarm downstream at Linn Station followed by a low-low suction pressure alarm 
+at 11:34:30 a.m.  
+
+On  the  basis  of  the  911  call  at  11:18  a.m.,  the  Kingman  County  sheriff’s  office  had 
+responded  to  the  site  and  started  telephoning  residents  in  35  houses;  four  families  were 
+evacuated; no residents were home at 28 houses. By about 11:40 a.m., the sheriff’s office and the 
+fire department had blocked roads that could be affected by the vapor cloud.  
+
+About  11:48  a.m.,  the  dispatcher  called  Enterprise’s  control  room  to  report  the  release 
+that had been reported to 911. Another controller, who was sitting at the console adjacent to the 
+ammonia pipeline controller’s console, answered the phone and handled the call. The ammonia 
+pipeline  controller  told  investigators  that  when  he  heard  the  telephone  ring  he  immediately 
+realized that there was a leak on the ammonia pipeline. He started to shut down the pipeline at 
+11:48:20 a.m.  by  remotely  stopping  the  pumps  at  Enid,  Verdigris,  Wellsford,  and  Borger 
+Stations,7 in that order. The last one, Borger, was shut down at 11:52:57 a.m. From his console, 
+he remotely closed the block valve at Harper Station, and at 11:54:24 a.m., he closed the block 
+valve  at  Partridge  Station.  These  closures  isolated  a  50.85-mile-long  segment  of  pipeline  in 
+which  the  rupture  had  occurred.  At  12:08  p.m.,  he  dispatched  Enterprise  personnel  to  close 
+manual  block  valves  at  milepost  markers  21  and  32  to  further  isolate  the  leaking  pipeline 
+segment.  At  12:56 p.m.  and  1:09  p.m.,  respectively,  those  valves  were  closed.  These  valve 
+closures reduced the isolated segment of pipeline in which the rupture had occurred to 11 miles.  
+Controller’s Actions  
+
+The controller told investigators after the rupture that he had been viewing the tabular 
+screen  and  knew  the  alarms  indicated  a  potential  problem  with  the  pipeline.  To  evaluate  the 
+alarms  from  the  pipeline,  he  used  the  tabular  data  screen  in  the  SCADA  system.  This  screen 
+listed the pipeline facilities and displayed current data for the entire pipeline system, including 
+pump station suction and discharge pressures, pump status, tank levels, flow rates, valve status, 
+and  set  points.  Alarm  information  that  was  displayed  on  the  alarm  screen  also  flashed  and 
+changed color on the tabular screen. The controller’s assessment was that he was delivering more 
+ammonia  from  the  pipeline  than  was  being  added  to  the  pipeline  and  that  this  condition  had 
+decreased the pressure. This assessment led him to increase the flow rate at 11:27:50. He later 
+said  that  he  thought  that  within  10  or  15  minutes  the  pressure  readings  would  increase. 
+Therefore, he planned to wait for a few minutes, and, if the pressure readings for the pipeline did 
+not increase, he would reevaluate and delve deeper into the situation.  
+
+The SCADA system can display a trend screen that shows pressure and flow trend data 
+graphically, and the controller told investigators that looking at a trend screen would have been 
+helpful in the analytical stage. However, he did not use trend screens in evaluating the incoming 
+
+                                                 
+
+7 The controller stopped pumps at these stations because at the time he did not know whether the leak was on 
+
+the mainline from Borger, on the Enid Lateral, or on the mainline downstream of Partridge Station.  
+
+4
+
+NTSB/PAB-07/02 
+
+data. He said that his training did not specify which screens to use to analyze and evaluate the 
+SCADA data. He stated that from 11:15 a.m. to 11:48 a.m. an unusually high number of alarms 
+and  status  events  were  displayed  for  the  pipeline.8  During  this  33-minute  period,  the  SCADA 
+system displayed 119 alarms and status events. The controller said that he felt that he had full 
+authority to shut down the pipeline and that he did not believe there would be consequences from 
+Enterprise if he shut down a pipeline and it was subsequently determined that there was no leak.  
+
+The  operations  control  supervisor  stated  in  an  interview  that  he  expects  pipeline 
+controllers to use the tabular screen as the main screen, or “front page.” He said that controllers 
+are taught to access and display a trend screen, or “second page,” to further investigate an alarm 
+and  the  condition  that  caused  it.  The  supervisor  said  that  pressure  and  flow  changes  are  the 
+primary parameters used to detect leaks. He stated that at the time of the accident, rate-of-change 
+alarms  were  displayed  in  blue  and  immediate  response  alarms  were  displayed  in  red.  He 
+indicated  that  he  believes  the  controller  had  enough  information  between  11:20  a.m.  and 
+11:25 a.m. to lead him to shut down the ammonia pipeline.  
+Telephonic Reporting of Release 
+
+The  Federal  pipeline  safety  regulation  for  telephonic  reporting  of  hazardous  liquid 
+pipeline  accidents  (49  CFR  195.52)  requires  telephonic  notification  to  the  National  Response 
+Center  when  the  pipeline  accident  has  caused  a  death  or  injury  requiring  hospitalization;  has 
+resulted  in  either  an  unintentional  fire  or  explosion;  has  caused  estimated  property  damage 
+(including cleanup and recovery costs and the value of the lost product) exceeding $50,000; has 
+resulted  in  pollution  of  streams,  rivers,  reservoirs,  or  other  similar  bodies  of  water;  or,  in  the 
+judgment  of  the  operator,  is  significant  even  though  the  accident  does  not  meet  the  other 
+specified  criteria.  The  regulation  further  requires  an  operator  to  include  in  the  telephonic 
+notification not only the basic details, such as the identity of the operator, the location and time 
+of  the  accident,  and  the  number  of  fatalities  and  injuries,  but  also  “all  other  significant  facts 
+known by the operator that are relevant to the cause of the failure or extent of the damages.” 
+
+On  August  30,  2002,  the  Pipeline  and  Hazardous  Materials  Safety  Administration 
+(PHMSA)9 published a Federal Register notice issuing a safety advisory bulletin10 to operators 
+of  gas  and  hazardous  liquid  pipelines  and  liquefied  natural  gas  facilities  about  telephonic 
+reporting.  In  the  notice,  PHMSA  stated  that  it  is  critical  for  an  operator  to  provide  accurate 
+information  on  the  extent  of  the  incident  and  that  PHMSA  expects  an  operator  to  provide 
+significant updated information during the emergency response phase. The bulletin stated that if 
+                                                 
+
+8 The pipeline systems that this controller operated experienced an increase from an average of 137 alarms in an 
+
+hour to 286 alarms between 11:00 a.m. and noon. 
+
+9  In  a U.S.  Department  of  Transportation reorganization,  the  Research  and Special  Programs  Administration 
+(RSPA) ceased operations on February 20, 2005. RSPA’s Office of Pipeline Safety programs  moved to the new 
+Pipeline and Hazardous Materials Safety Administration. All references to predecessor agencies are designated as 
+PHMSA in this report. 
+
+10 The August 30, 2002, advisory bulletin was issued in response to the Safety Board’s Safety Recommendation 
+P-02-02 (See Rupture of Piney Point Oil Pipeline and Release of Fuel Oil Near Chalk Point, Maryland, April 7, 
+2000,  Pipeline  Accident  Report,  NTSB/PAR-02/01  [Washington,  DC:  NTSB,  2002.]).  The  Safety  Board 
+issued Safety Recommendation P-02-02 to PHMSA to require pipeline owners and operators to provide follow-up 
+telephone updates to the National Response Center when they discover that the information they initially reported 
+contains significant errors or when they identify significant new information directly related to the reporting criteria. 
+
+5
+
+NTSB/PAB-07/02 
+
+additional information leads to a significant change in the estimated quantity of product released, 
+the estimated number of fatalities and injuries, the extent of environmental damage, or the extent 
+of  property  damage,  the  operator  should  make  an  additional  telephonic  report  to  the  National 
+Response Center. PHMSA considered “significant change” to include an increase or decrease of 
+previously reported fatalities or injuries and a revised estimate of product released or property 
+damage that is at least 10 times greater than the previous estimates. Regarding release estimates, 
+the bulletin also stated that if the operator does not provide an estimate, the National Response 
+Center  will  record  a  default  estimate  of  1,000  barrels  (42,000  gallons).  In  February  2005, 
+PHMSA informed the Safety Board that rather than the National Response Center entering the 
+1,000-barrel  default  estimate,  PHMSA  will  consider  telephonic  reports  made  without  a  spill 
+estimate to have the same priority as reports with spill estimates of 1,000 barrels. The National 
+Response Center confirmed in March 2005 that it will not enter the 1,000-barrel default value if 
+the operator does not provide a spill estimate.  
+
+The U.S. Environmental Protection Agency (EPA) requires that an anhydrous ammonia 
+release equal to or greater than 100 pounds of ammonia (equivalent to approximately 20 gallons) 
+be reported within 15 minutes of discovery. 
+
+About  12:15  p.m.  on  October  27,  the  controller  notified  Enterprise’s  central  region 
+operations manager of the release. Because field personnel were too busy to make the call, the 
+manager  called  the  controller  back  to  tell  him  to  report  the  accident  to  Enterprise’s  accident 
+reporting  contractor.11  In  the  controller’s  phone  conversation  with  the  accident  reporting 
+contractor at 12:23 p.m., the controller reported that a large quantity of anhydrous ammonia had 
+been released and had formed an ammonia vapor cloud, but he stated that he did not know the 
+amount  of  anhydrous  ammonia  that  had  been  released.  When  the  contractor  responded  that 
+without an estimate of a specific quantity the National Response Center would enter a 1,000-
+barrel estimate in its incident report, the controller told the contractor that a 1,000-barrel estimate 
+would be fine. The contractor asked whether the amount released was at least 20 gallons.12 The 
+controller  confirmed  that  it  was.  Later,  when  the  contractor  asked  for  a  damage  estimate,  the 
+controller  said  that  he  had  no  idea.  When  the  contractor  asked  him  to  choose  one  of  several 
+ranges of dollar values from less than $5,000 to exceeding $50,000 as an estimate of the damage 
+caused by the release, the controller chose the less-than-$5,000 range.  
+
+At  1:08  p.m.,  Enterprise’s  reporting  contractor  reported  the  release  to  the  National 
+Response Center. The National Response Center report of the incident stated that the release was 
+a vapor cloud over the pipeline due to unknown causes. The contractor reported the estimated 
+quantity of the release as 20 gallons and told the National Response Center that Enterprise would 
+calculate the amount released when it got a chance. An updated release amount was not reported 
+to the National Response Center. 
+
+A PHMSA inspector arrived on site at 7:00 a.m. the next morning, October 28. About 
+8:00  a.m.,  the  inspector  learned  from  Enterprise  operations  employees  that  at  that  time,  the 
+
+                                                 
+
+11 3E Company was Enterprise’s accident reporting contractor. 
+12 When reporting an anhydrous ammonia release of unknown volume, Enterprise reported small releases as at 
+
+least 20 gallons to indicate that a reportable quantity had been released.  
+
+6
+
+NTSB/PAB-07/02 
+
+estimated amount of anhydrous ammonia released was at least 3,000 barrels (126,000 gallons).13 
+This estimate of the release volume was based on an approximation of the amount of product 
+normally contained in the pipeline between the two valves that had been manually closed. The 
+final  estimate  of  the  release  volume  was  later  calculated  by  Enterprise  to  be  4,858  barrels 
+(204,000 gallons). 
+
+The EPA had received the initial report of a 20-gallon release from the National Response 
+Center  on  October  27  about  2:42  p.m.  EPA  representatives  indicated  that  the  EPA  had  not 
+responded  to  the  accident  site  because  the  reported  release  volume  was  so  small.  The  next 
+morning, during a review of the previous day’s National Response Center reports, the EPA duty 
+officer noticed that a vapor cloud had been reported, and he called Enterprise at 9:30 a.m. to ask 
+why a vapor cloud was associated with a 20-gallon release. The Enterprise representative told the 
+duty officer that the amount of ammonia released was much greater than the reported quantity, 
+and he estimated the release to be at least 2,000 barrels (84,000 gallons). Following the phone 
+call, two EPA on-scene coordinators were dispatched to the site to investigate. 
+
+The EPA on-scene coordinators arrived at the site at 5:00 p.m. and discussed with Apex 
+Environmental,  Inc.  (Apex),  Magellan’s  environmental  contractor,  the  need  for  sparging14  at 
+Smoots Creek to lower the pH levels in the creek. Apex began sparging about 9:00 p.m. Sparging 
+continued for several weeks following the rupture. Later, the Kansas Department of Health and 
+Environment authorized the spreading of 3,500 cubic yards of nitrogen-rich soil, which had been 
+excavated from the rupture location, over a cultivated area to fertilize the ground.  
+Pipe Specification and Operating Conditions 
+
+The  8.625-inch  nominal  outside  diameter  carbon  steel  pipe  at  the  rupture  location  was 
+specified  as American  Petroleum  Institute  Specification  5LX,  grade  X46,  0.156-inch  nominal 
+wall thickness with an electric resistance welded seam. After Mid-America Pipeline Company 
+completed construction, the pipeline segment at the rupture location was hydrotested to 1,580 
+pounds per square inch gauge (psig) on December 11, 1973. At the rupture location, the pipeline 
+had a maximum operating pressure of 1,198 psig. The calculated pipeline operating pressure at 
+the rupture site at the time of the release was 981 psig, and records of the operating conditions 
+immediately before the accident do not indicate that the maximum operating pressure had been 
+exceeded. The exterior surface of the pipe was coated with tar tape primer and spirally wrapped 
+with a continuous overlap of tar tape. At the location of the rupture, the pipe was 4 feet 5 inches 
+underground and was cathodically protected to control external corrosion.  
+Materials Laboratory Examination and Tests 
+
+The pipe segment that ruptured was removed and sent to the Safety Board’s Materials 
+Laboratory  for  examination  and  testing.  The  segment  had  four  external  gouges.  The 
+
+                                                 
+
+13 The 3,000-barrel estimate was a rough field estimate. With the postaccident implementation of new reporting 
+procedures, Enterprise would have been able to provide a more refined estimate of 3,600 barrels. See “Enterprise’s 
+Postaccident Actions – Telephonic Report Procedure” in this report. 
+
+14  Sparging  is  the  process  of  injecting  compressed  air  into  a  waterway  causing  volatile  pollutants  such  as 
+
+ammonia to vaporize into the air. 
+
+7
+
+NTSB/PAB-07/02 
+
+approximately 11.7-inch-long rupture occurred at one of the gouges. (See figure 3.) Over most of 
+the rupture length, the gouge penetrated 0.019 inch (approximately 12.2 percent of the pipe wall 
+thickness) into the pipe wall. Within the gouge, shear cracks penetrated the metal. From the base 
+of the shear crack that led to the rupture, a fatigue crack propagated toward the interior of the 
+pipe.  The  fatigue  crack  extended  approximately  0.080  inch  below  the  shear  crack  with  no 
+external corrosion that resulted in a loss of material thickness. A detailed examination showed 
+that the fatigue region had five bands, each with a different shade of gray, consistent with crack 
+arrest marks. The area below the fatigue crack had a shear lip created during the sudden and final 
+rupture of the pipe.  
+
+ 
+Figure 3. Ruptured 8-inch Enid Lateral anhydrous ammonia pipeline showing four gouges 
+
+and rupture. 
+
+The results of chemical analysis, dimensional measurements, and tensile strength testing 
+were in accordance with the American Petroleum Institute specification for 5LX-X46 pipe. An 
+examination of a cross section of the gouge at the fracture origin area showed that metal of a 
+different composition had transferred to the wall of the pipe. Elemental analysis of a metal tooth 
+from the backhoe bucket owned by the property owner did not provide a unique signature when 
+compared to the transferred metal in the gouges. The examination of the cross section revealed 
+no  manufacturing  defects  (such  as  laminations,  voids,  or  porosity)  in  the  pipe  material.  The 
+examination  of  the  inside  surface  of  the  pipe  showed  no  corrosion  degradation  or  additional 
+cracking.  
+
+8
+
+NTSB/PAB-07/02 
+
+Construction and Excavation Activity 
+
+To  identify  any  construction  and  excavation  activities  in  the  area  of  the  rupture, 
+investigators  examined  all  available  maintenance  records,  aerial  patrol  records,  and  aerial 
+photographs that covered the period from construction of the pipeline in 1973 to the present, but 
+identified  no  excavation  activities  immediately  over  the  rupture  site.  The  1973  construction 
+specifications for the pipeline required that any coating damage be repaired before backfilling 
+the pipeline. The trench for the pipeline was excavated with a trenching machine, and backfilling 
+was  done  with  an  auger-type  backfill  machine  or  a  bulldozer.  According  to  the  construction 
+specifications,  where  these  machines  could  not  be  used  to  backfill,  the  site  inspector  would 
+approve  the  method  of  backfilling  before  it  began.  The  pipeline  tie-in  inspector  for  the  Enid 
+Lateral construction did not recall what occurred at the accident location, and no construction 
+inspection records exist. He indicated that a backhoe was not likely to be used in the pipe rupture 
+area  during  construction  because  the  unnamed  stream  was  not  a  major  stream  crossing  that 
+required the use of a backhoe.  
+
+According to the current owner (since 1989), the area where the pipe ruptured had not 
+been cultivated. Between 1990 and 1992, he had used his backhoe to grade the unnamed stream’s 
+banks to create a vehicle ramp that was approximately 100 feet north of the pipe rupture. He told 
+investigators that no excavation had been performed at the location of the rupture.  
+
+The four gouges located longitudinally along the top half of the pipeline are consistent in 
+shape and location with the type of mechanical damage caused by excavation equipment such as 
+a backhoe. Since a unique metallurgical signature was not found in the analysis of metal deposits 
+within  the  gouges,  the  Safety  Board  could  not  determine  whether  the  landowner’s  backhoe 
+bucket was the source of the deposits. The pipeline tie-in inspector stated that on this pipeline 
+construction project a backhoe typically would not have been used for crossing a stream of this 
+size. However, the Safety Board could not rule out damage to the pipeline during construction. 
+Available information and records covering the time from when the pipeline was constructed in 
+1973  to  the  present  did  not  indicate  any  excavation  activity  by  the  pipeline  operator  near  the 
+location of the rupture. However, the possibility of unknown excavation activities could not be 
+eliminated.  The  Safety  Board  concludes  that  heavy  equipment  damage  to  the  pipeline  during 
+construction or subsequent excavation activity created a pipe gouge that initiated metal fatigue 
+cracking and led to the eventual rupture of the pipeline.  
+Enterprise’s Policies and Procedures 
+Procedures for Abnormal Operating Conditions  
+
+Enterprise’s procedure manual defined an abnormal operating condition as “any condition 
+that may cause, create, or contribute to a situation which exceeds the design or normal operating 
+parameters of the pipeline.” The manual instructed controllers to treat an unexplained variation 
+in pressure or flow as an abnormal operating condition. It also instructed controllers to continue 
+to  monitor  pipeline  operations  and  follow  specific  steps  that  include  checking  “with  others 
+involved  with  the  operations  to  determine  the  cause  of  the  variation”  and  to  be  “especially 
+attentive for any sign that an emergency condition may follow.”  
+
+9
+
+NTSB/PAB-07/02 
+
+To investigate a variation in pressure or flow, control room personnel were to notify on-
+call  field  personnel  or  supervisors;  review  flow  data;  check  instantaneous  line  balance  by 
+comparing  simultaneous  meter  readings  at  point  of  origin,  destination,  and  intermediate 
+locations; and contact customers for possible explanation of the pressure or flow variation. If a 
+logical  reason  for  a  variation  could  not  be  determined,  the  control  room  operator  was  to  shut 
+down the pipeline and monitor pressure.  
+
+Enterprise’s  draft  Natural  Gas  Liquids  Pipeline  Control  Operations  and  Maintenance 
+Training Manual15 also contained information regarding the monitoring and control of anhydrous 
+ammonia pipelines. The manual noted that rate-of-change alarms usually occur at the onset of an 
+abnormal  condition  or  a  pipeline  leak.  Controllers  were  instructed  to  investigate  all  rate-of-
+change and parameter alarms immediately, and they were advised that if an alarm resulted from a 
+known cause, the pipeline system in the area of the alarm would stabilize in a short period of 
+time. If the cause of a rate-of-change or parameter alarm was not readily apparent and the alarm 
+was accompanied by one or more indications of a product release, or the pressure or flow failed 
+to stabilize, controllers were instructed to shut down and block in the line segment. If a sudden 
+unexplained  decrease  in  operating  pressure  without  a  corresponding  increase  in  flow  rate  was 
+observed, the controller was instructed to shut down and block in the line segment for 30 minutes 
+and then observe the line segment for any sign of a leak. 
+
+Controllers were instructed during training to use trend screens to monitor the pipeline 
+pressure  and,  if  the  pressure  continued  to  fall  or  did  not  stabilize,  to  perform  an  emergency 
+shutdown. This procedure was included in the training manual. The alarm response matrix in the 
+training manual described the SCADA alarm color scheme and listed a rate-of-change alarm as a 
+high-level  alarm.  The  matrix  also  indicated  that  rate-of-change  alarms  for  pressure  and  flow 
+(high-level, immediate attention) were shown in red on the SCADA screen and that these alarms 
+indicated a possible line break.  
+
+Enterprise  defined  an  emergency  as  a  “significant  change  from  steady  state  operating 
+conditions”  that  could  include  an  “accidental  release  of  hazardous  vapors  or  liquids  from  a 
+pipeline  causing  a  hazardous  situation.”  When  a  controller  determined  that  an  emergency 
+existed, the manual required him to shut down pumps that feed the affected facility and close the 
+nearest upstream remotely operated block valve. Pump stations downstream of the facility were 
+to remain operating until they shut down on low flow, and then the nearest remotely operated 
+downstream block valve was to be closed. The controller also was to notify identified personnel 
+within the company as well as customers and emergency response agencies. 
+Controller’s SCADA Training and Qualification 
+
+The controller who operated the pipeline during the accident started at Enterprise as an 
+area operator and was promoted to operations supervisor in the field in 1996. He took controller 
+training, consisting of classroom study of company procedures and manuals, operations, SCADA 
+information retrieval, and site-specific information. He functioned as a pipeline scheduler from 
+1997 until 2003. In February 2003, he began on-the-job controller training. Enterprise assessed 
+the effectiveness of his training by testing his knowledge and observing his actions in operating 
+
+                                                 
+
+15 Enterprise used the draft manual for training controllers. 
+
+10
+
+NTSB/PAB-07/02 
+
+pipelines. He completed refresher training on May 21, 2003. His training included the study of 
+procedural and training manuals for the ammonia pipeline. The study material explained how to 
+respond to abnormal conditions and use trend screens with graphical displays. He successfully 
+completed written examinations covering this material on September 13, 2003, and was qualified 
+by Enterprise to operate the pipeline. Enterprise did not have a pipeline simulator for controller 
+training but did use noncomputerized simulations in postaccident controller training sessions in 
+2001.  The  review  of  noncomputerized  simulations  of  accidents  is  not  a  requirement  listed  in 
+Enterprise’s training program. 
+Telephonic Report Policy 
+
+Enterprise’s  Procedural  Manual  for  Operations,  Maintenance,  and  Emergencies  stated 
+that operations personnel are accountable for telephoning a report of an accident to the National 
+Response  Center.  The  procedure  repeats  the  requirements  for  telephonic  reporting  in 
+49 CFR 195.52.  
+
+Enterprise’s  draft  Natural  Gas  Liquids  Pipeline  Control  Operations  and  Maintenance 
+Training  Manual  stated  that  its  reporting  contractor  would  do  all  reporting  of  releases  and 
+accidents to Federal, State, and local authorities for Magellan’s ammonia pipeline, and that the 
+Enterprise field supervisor was responsible for reporting releases and accidents to the contractor. 
+Enterprise  did  not  have  a  policy  about  who  was  responsible  for  deciding  whether  to  send  an 
+additional report to the National Response Center in order to comply with the August 30, 2002, 
+PHMSA  advisory  bulletin  urging  operators  to  update  a  telephonic  report  with  significant  new 
+information, including a change in the estimate of the release volume. 
+
+Before  the  accident,  Enterprise’s  central  region  operations  manager  had  supplemental 
+reporting guidelines drafted for training field personnel. The operations manager’s objective was 
+to  improve  timely  reporting  of  accidents  in  his  region  using  the  reporting  contractor.  The 
+guidelines identified reporting responsibilities and included a list of questions that the contractor 
+would  ask.  However,  the  guidelines  did  not  address  how  to  estimate  the  quantity  of  product 
+released  or  how  to  make  a  dollar  estimate  of  damages.  The  draft  guidelines  were  used  in  a 
+training  session  conducted  during  a  quarterly  safety  meeting 
+the  quarter  ending 
+March 31, 2003.  The  draft  guidelines,  Release  Reporting  Roles  and  Responsibilities,  dated 
+June 3, 2003, was the last update of the draft.  
+Integrity Management Program for Ammonia Pipeline  
+
+in 
+
+Williams Companies, Inc. (Williams), the previous owner and operator of the pipeline, 
+prepared the initial integrity management program for the ammonia pipeline. It used a relative 
+risk  assessment  model  that  considered  the  following  factors:  third-party  damage,  corrosion, 
+incorrect operation, design, and leak impact. It ranked various pipeline segments according to 
+their risk with respect to each other. Using this model, a lower score indicated higher risk, and a 
+higher  score  indicated  lower  risk.  The  risk  scores  were  used  with  other  input  to  prioritize 
+scheduling of baseline assessments of pipeline segments. Pipe segments with risk scores of 0 to 
+35, 36 to 66, and 67 and above were considered high, medium, and low risk, respectively. When 
+the baseline assessment plan was developed, the model assigned a risk score of 69 (low risk) to 
+
+11
+
+NTSB/PAB-07/02 
+
+the segment on the Enid Lateral that ruptured in this accident. This Enid Lateral segment was 
+scheduled for a baseline assessment in 2006.   
+
+In  February  2003,  Enterprise  became  the  operator  for  the  pipeline  under  contract  to  a 
+subsidiary of Williams. Enterprise has been responsible for the integrity management program 
+for  the  pipeline  since  that  time.  Williams  subsequently  sold  the  pipeline  to  Magellan,  and 
+Enterprise  continued  as  the  operator. The  original  integrity  management  program  remained  in 
+effect until 2004 when Enterprise finished developing its own integrity management program, 
+which was the program in effect at the time of the accident. The risk model in the Enterprise 
+program was the same as the one used by Williams, and the risk score for the pipeline segment 
+that contained the rupture had not been revised.  
+
+PHMSA’s integrity management regulations list risk factors that must be considered in 
+prioritizing  the  scheduling  of  baseline  assessments.  A  pipeline  segment’s  leak  history  is 
+specifically included in the list of risk factors. Although Enterprise had leak history data for the 
+accident pipeline segment, Enterprise did not have complete instructions for calculating the leak 
+history risk factor in its integrity management program. As a result, leak history was not used in 
+calculating the relative risk scores, nor was it otherwise considered to classify pipe segments as 
+high, medium, or low risk for the baseline assessment before the Kingman accident. 
+Federal Integrity Management Inspections 
+
+In September and October 2003, PHMSA inspected the Enterprise integrity management 
+program for the anhydrous ammonia pipeline, including the Enid Lateral pipeline segment. The 
+inspection  revealed  some  deficiencies  that  were  noted  on  PHMSA’s  Integrity  Management 
+Inspection Form and Inspection Summary Report. PHMSA identified several compliance issues 
+and issued a Notice of Amendment to Enterprise on April 22, 2004, to correct deficiencies in its 
+integrity management program. One of the compliance issues pertained to risk factors used in 
+prioritizing  the  baseline  assessment  schedule.  PHMSA  noted  that  the  following  risk  factors 
+required  by  regulation  were  not  addressed  by  Enterprise:  seam  type,  results  of  previous 
+assessments, defect type and size that the assessment method can detect, and defect growth rate. 
+PHMSA  also  asked  that  more  detail  be  included  in  documentation  describing  how  these  risk 
+factors  will  be  integrated  into  the  decision-making  process  for  prioritizing  the  baseline 
+assessment schedule. However, PHMSA did not identify that pipeline leak history also was not 
+used in Enterprise’s calculation of relative risk scores. 
+
+In letters dated May 21 and July 28, 2004, Enterprise responded to the PHMSA Notice of 
+Amendment with revised procedures to integrate the risk factors that had been identified in the 
+notice as deficient. However, Enterprise did not update its baseline assessment for prioritizing 
+the scheduling of pipeline segments using the revised procedures. Enterprise also did not modify 
+or update the procedures for leak history in its revised procedures. After reviewing Enterprise’s 
+May 21 and July 8 responses, PHMSA closed the Notice of Amendment on October 18, 2004. 
+PHMSA did not require Enterprise to update the baseline assessment using the revised risk factor 
+procedures.  
+
+12
+
+NTSB/PAB-07/02 
+
+Enterprise’s Postaccident Actions  
+SCADA Alarms Review 
+
+After the accident, Enterprise established a program to review the rate-of-change alarms 
+systemwide because the company believed that the alarms were not as effective as they should 
+be. The goal of the review was to make the alarms more meaningful by significantly reducing the 
+number of alarms that could distract controllers from  more  critical  alarms. Before the review, 
+controllers received about 10,000 SCADA alarms/events systemwide on an average day. After 
+the review, the average number of alarms per day dropped below 4,000. After determining that 
+controllers  would  not  be  overwhelmed  by  reclassifying  rate-of-change  alarms  to  a  higher 
+priority, Enterprise changed the alarm from medium level (blue) to high level (red) to emphasize 
+the need for immediate attention to those alarms. 
+Controller Training  
+
+Enterprise supervisors reviewed the circumstances of the accident with the controller and 
+identified deficiencies in his response. No disciplinary actions were taken against the controller. 
+Enterprise conducted two training sessions for its entire staff of anhydrous ammonia and natural 
+gas  liquid  pipeline  controllers.  In  the  training  sessions,  Enterprise  used  a  noncomputerized 
+simulation to analyze the ammonia pipeline accident. During this simulation, as each alarm came 
+in,  the  associated  trend  screen  was  displayed.  The  SCADA  tools  available  for  analyzing 
+incoming alarm data, including trend screens, were reviewed. Controllers were told that if they 
+saw an abnormal condition that indicated a possible leak and they were unable to analyze the 
+condition and determine the cause of the problem within approximately 5 minutes, the controller 
+was  to  shut  down  and  block  in  the  pipeline.  Enterprise  has  not  made  noncomputerized 
+simulations a part of its recurrent training program. 
+Telephonic Report Procedure 
+
+Enterprise developed a new telephonic reporting procedure, dated January 20, 2006, for 
+estimating  the  amount  of  product  released  and  related  damages  based  on  pipeline  physical 
+characteristics and available operating data. When sufficient operating data are not available for 
+anhydrous ammonia pipelines, the initial release amount to be reported will be the quantity of 
+product  contained  between  the  valves  closed  on  either  side  of  the  leak.  The  procedure  also 
+addresses a potential delay in telephonic reporting for releases that exceed the EPA reportable 
+quantity. Specifically, to expedite the reporting to the National Response Center, Enterprise now 
+requires the employee who reports the release to the reporting contractor to stay on the phone 
+with the reporting contractor while the report is made. Enterprise also has designated company 
+employees who will supply telephonic updates, as necessary, to the National Response Center. 
+Integrity Management Program 
+
+Since  the  accident,  Enterprise  has  revised  its  risk  assessment  model  to  incorporate  a 
+pipeline  leak  history  factor  in  its  risk  assessment  calculation.  It  also  has  revised  its  baseline 
+assessment of pipeline segments using all risk factors to schedule baseline assessments. 
+
+13
+
+NTSB/PAB-07/02 
+
+Probable Cause 
+
+The  National  Transportation  Safety  Board  determines  that  the  probable  cause  of  the 
+pipeline rupture near Kingman, Kansas, on October 27, 2004, was a pipe gouge created by heavy 
+equipment damage to the pipeline during construction in 1973 or subsequent excavation activity 
+at an unknown time that initiated metal fatigue cracking and led to the eventual rupture of the 
+pipeline.  Contributing  to  the  severity  of  the  accident  was  the  pipeline  controller’s  failure  to 
+accurately evaluate available operating data and initiate a timely shutdown of the pipeline.  
+Recommendations  
+
+As  a  result  of  its  investigation  of  the  October  27,  2004,  anhydrous  ammonia  pipeline 
+accident,  the  National  Transportation  Safety  Board  makes  the  safety  recommendations  listed 
+below.  For  more  information  about  these  recommendations,  see  the  safety  recommendation 
+letters16 to the recipients. 
+
+To the Pipeline and Hazardous Materials Safety Administration:  
+
+Require in 49 Code of Federal Regulations 195.52 that a pipeline operator must 
+have a procedure to calculate and provide a reasonable initial estimate of released 
+product in the telephonic report to the National Response Center. (P-07-7) 
+
+Require in 49 Code of Federal Regulations 195.52 that a  pipeline operator must 
+provide  an  additional  telephonic  report  to  the  National  Response  Center  if 
+significant  new  information  becomes  available  during  the  emergency  response. 
+(P-07-8)  
+
+Require  an  operator  to  revise  its  pipeline  risk  assessment  plan  whenever  it  has 
+failed to consider one or more risk factors that can affect pipeline integrity.  
+(P-07-9) 
+
+To Enterprise Products Operating L.P.:  
+
+Provide initial and recurrent training for all controllers that includes simulator or 
+noncomputerized  simulations  of  abnormal  operating  conditions  that  indicate 
+pipeline leaks. (P-07-10) 
+
+                                                 
+
+16 These letters are available on the National Transportation Safety Board’s web site. 
+
+14
+
+NTSB/PAB-07/02 
+
+ 
+
+BY THE NATIONAL TRANSPORTATION SAFETY BOARD 
+
+MARK V. ROSENKER 
+Chairman 
+
+DEBORAH A. P. HERSMAN 
+Member 
+
+STEVEN R. CHEALANDER 
+Member 
+ 
+Adopted: June 14, 2007 
+ 
+ 
+
+ROBERT L. SUMWALT 
+Vice Chairman  
+
+KATHRYN O’LEARY HIGGINS 
+Member 
+ 
+
+ 
+
+15
+
+NTSB/PAB-07/02 
+
+

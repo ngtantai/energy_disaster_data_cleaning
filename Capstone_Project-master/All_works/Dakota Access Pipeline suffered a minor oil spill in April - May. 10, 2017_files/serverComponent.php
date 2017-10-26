@@ -1,0 +1,2 @@
+
+Bootstrapper._serverTime = '2017-09-12 02:26:27'; Bootstrapper._clientIP = '128.177.113.106'; var psj0 = 'http://nexus.ensighten.com/turner/money-prod/code/2fe3b3ab1318718aaa65386d76c0e7e0.js?conditionId0=462898';Bootstrapper.loadScriptCallback(psj0, Bootstrapper.callOnPageSpecificCompletion);Bootstrapper.setPageSpecificDataDefinitionIds([])

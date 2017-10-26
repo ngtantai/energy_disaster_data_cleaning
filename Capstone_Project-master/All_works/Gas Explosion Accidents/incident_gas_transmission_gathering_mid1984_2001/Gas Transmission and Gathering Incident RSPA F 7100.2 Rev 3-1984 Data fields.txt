@@ -1,0 +1,216 @@
+ 
+Natural Gas Transmission and Gathering Incident data file fields from mid- 1984 to year 2001        
+                                                                                                    
+****************************************************************************************************
+The following table describes the fields in the accompanying TXT files.  The table shows the field 
+name used by OPS, the data type, a description of the field's meaning and the field's location on 
+the form.                                                                                           
+                                                                                                    
+The word "Part" at a form location's beginning indicates the part of the transmission incident 
+report Form RSPA F 7100.2 (03-84) that the field represents.                                        
+                                                                                                    
+Note: All dates (DOR, IDATE, TELRT, NOTDT, TESTD) are of type 'Varchar2' and in the 'YYYYMMDD' 
+format.                                                                                             
+****************************************************************************************************
+                                                                                                    
+FIELD NAME     TYPE           DESCRIPTION                                                           
+                                                                                                    
+----------------------------------------------------------------------------------------------------
+RPTID          Number         Top of first page - PHMSA DOT assigned unique identifier for report   
+----------------------------------------------------------------------------------------------------
+OPID           Number         Part 1 - General report information - Operator's OPS-issued Operator 
+                              Identification number                                                 
+----------------------------------------------------------------------------------------------------
+NAME           Varchar2       Part 1 - General report information - Operator Name                   
+----------------------------------------------------------------------------------------------------
+ACCITY         Varchar2       Part 1 - General report information - Location of incident - City     
+----------------------------------------------------------------------------------------------------
+ACCOUNTY       Varchar2       Part 1 - General report information - Location of incident - County   
+----------------------------------------------------------------------------------------------------
+ACSTATE        Varchar2       Part 1 - General report information - Location of incident - State    
+----------------------------------------------------------------------------------------------------
+ACZIP          Varchar2       Part 1 - General report information - Location of incident - Zip Code 
+----------------------------------------------------------------------------------------------------
+MPOST          Varchar2       Part 1 - General report information - Mile Post/Valve Station         
+----------------------------------------------------------------------------------------------------
+SURVY          Varchar2       Part 1 - General report information - Survey station number           
+----------------------------------------------------------------------------------------------------
+CLASS          Number         Part 1 - General report information - Class location of the incident 
+                              as described in 49 CFR Sec.192.5                                      
+----------------------------------------------------------------------------------------------------
+SHORE          Varchar2       Part 1 - General report information - Did the incident take place 
+                              offshore? (Yes/No)                                                    
+----------------------------------------------------------------------------------------------------
+OFFAREA        Varchar2       Part 1 - General report information - Offshore area location          
+----------------------------------------------------------------------------------------------------
+BNUMB          Varchar2       Part 1 - General report information - Offshore block number           
+----------------------------------------------------------------------------------------------------
+OFFST          Varchar2       Part 1 - General report information - Offshore state                  
+----------------------------------------------------------------------------------------------------
+OCS            Varchar2       Part 1 - General report information - Did offshore incident take 
+                              place on the Outer continental shelf? (Yes/No/Null)                   
+----------------------------------------------------------------------------------------------------
+IFED           Varchar2       Part 1 - General report information - Did incident take place on 
+                              Federal land other than Outer Continental Shelf? (Yes/No/Null)        
+----------------------------------------------------------------------------------------------------
+ITYPE          Varchar2       Part 1 - General report information - Incident type; Leak, Rupture, 
+                              Other                                                                 
+----------------------------------------------------------------------------------------------------
+RUPLN          Number         Part 1 - General report information - Rupture length                  
+----------------------------------------------------------------------------------------------------
+FAT            Number         Part 1 - General report information - Total number of fatalities      
+----------------------------------------------------------------------------------------------------
+INJ            Number         Part 1 - General report information - Total number of injured 
+                              requiring inpatient hospitalization                                   
+----------------------------------------------------------------------------------------------------
+PRPTY          Number         Part 1 - General report information - Total of Property Damage/Loss   
+----------------------------------------------------------------------------------------------------
+OPJUD          Varchar2       Part 1 - General report information - Operator judgment               
+----------------------------------------------------------------------------------------------------
+STHH           Number         Part 1 - General report information - Number of hours that elapsed 
+                              till area was made safe                                               
+----------------------------------------------------------------------------------------------------
+STMN           Number         Part 1 - General report information - Number of minutes that elapsed 
+                              till area was made safe                                               
+----------------------------------------------------------------------------------------------------
+TELRT          Varchar2       Part 1 - General report information - Date incident was reported to 
+                              NRC (YYYYMMDD)                                                        
+----------------------------------------------------------------------------------------------------
+INPRS          Number         Part 1 - General report information - Estimated pressure at point and 
+                              time of incident.                                                     
+----------------------------------------------------------------------------------------------------
+MXPRS          Number         Part 1 - General report information - Maximum allowable operating 
+                              pressure (MAOP in PSIG)                                               
+----------------------------------------------------------------------------------------------------
+MPEST          Varchar2       Part 1 - General report information - Max allowable operating 
+                              pressure was established by test or by 49 CFR, section 192.619        
+----------------------------------------------------------------------------------------------------
+TEST           Number         Part 1 - General report information - The test pressure if the MAOP 
+                              was established by test                                               
+----------------------------------------------------------------------------------------------------
+DTHH           Number         Part 1 - General report information - Time incident took place        
+----------------------------------------------------------------------------------------------------
+IDATE          Varchar2       Part 1 - General report information - Date incident occurred(YYYYMMDD)
+----------------------------------------------------------------------------------------------------
+CAUSE          Varchar2       Part 2 - Apparent cause of incident - Apparent cause of the incident  
+----------------------------------------------------------------------------------------------------
+PRTLK          Varchar2       Part 4 - Origin of the incident - Incident occurred; Transmission 
+                              System, Gathering System, Transmission Line of Distribution system    
+----------------------------------------------------------------------------------------------------
+PRTFL          Varchar2       Part 4 - Origin of the incident - Failure occurred; Body of pipe, 
+                              Fitting, Mechanical Joint, Other, Valve, Weld                         
+----------------------------------------------------------------------------------------------------
+PRTFO          Varchar2       Part 4 - Origin of the incident - Text describing Other for PRTLK 
+                              field                                                                 
+----------------------------------------------------------------------------------------------------
+MLKD           Varchar2       Part 4 - Origin of the incident - Material involved; Steel, Other     
+----------------------------------------------------------------------------------------------------
+MLKDO          Varchar2       Part 4 - Origin of the incident - Text describing Other Plastic or 
+                              Other for MLKD field                                                  
+----------------------------------------------------------------------------------------------------
+PRTSY          Varchar2       Part 4 - Origin of the incident - Part of system involved in 
+                              incident; Pipeline, Regulator/Metering System, Compressor Station, 
+                              Other                                                                 
+----------------------------------------------------------------------------------------------------
+PRTSO          Varchar2       Part 4 - Origin of the incident - Text describing Other Plastic or 
+                              Other for PRTSY field                                                 
+----------------------------------------------------------------------------------------------------
+PRTYR          Number         Part 4 - Origin of the incident - Year part was installed             
+----------------------------------------------------------------------------------------------------
+NMDIA          Number         Part 5 -  Material Specification - Nominal Pipe Size (NPS) (diameter) 
+                              in inches                                                             
+----------------------------------------------------------------------------------------------------
+THK            Number         Part 5 -  Material Specification - Wall thickness in inches           
+----------------------------------------------------------------------------------------------------
+SPEC           Varchar2       Part 5 -  Material Specification - Material specification             
+----------------------------------------------------------------------------------------------------
+SMYS           Number         Part 5 -  Material Specification - System maximum yield strength      
+----------------------------------------------------------------------------------------------------
+SEAM           Varchar2       Part 5 -  Material Specification - Seam type                          
+----------------------------------------------------------------------------------------------------
+VALVE          Varchar2       Part 5 -  Material Specification - Valve type                         
+----------------------------------------------------------------------------------------------------
+MANU           Varchar2       Part 5 -  Material Specification - Manufacturer                       
+----------------------------------------------------------------------------------------------------
+MANYR          Number         Part 5 -  Material Specification - Year manufactured                  
+----------------------------------------------------------------------------------------------------
+LOCLK          Varchar2       Part 6 -  Environment - Area of Incident; Under Pavement, Above 
+                              Ground, Under Ground or Under Water, Other                            
+----------------------------------------------------------------------------------------------------
+LOCLO          Varchar2       Part 6 -  Environment - Text describing Other for field LOCLK         
+----------------------------------------------------------------------------------------------------
+TELRN          Varchar2       Part 1 - General report information - Report number of matching NRC 
+                              telephonic report                                                     
+----------------------------------------------------------------------------------------------------
+TELID          Varchar2       Not on the form                                                       
+----------------------------------------------------------------------------------------------------
+DOR            Varchar2       Top of first page - Date when report was received at DOT(YYYYMMDD)    
+----------------------------------------------------------------------------------------------------
+LOC            Varchar2       Part A - Corrosion - Location where corrosion occurred; Internally, 
+                              Externally                                                            
+----------------------------------------------------------------------------------------------------
+ADESC          Varchar2       Part A - Corrosion - Visual description of corrosion; Localized 
+                              Pitting, General Corrosion, Other                                     
+----------------------------------------------------------------------------------------------------
+DESCO          Varchar2       Part A - Corrosion - Text describing Other for field ADESC            
+----------------------------------------------------------------------------------------------------
+CAUCR          Varchar2       Part A - Corrosion - Cause of Corrosion; Galvanic, Other              
+----------------------------------------------------------------------------------------------------
+CAUCO          Varchar2       Part A - Corrosion - Text describing Other for field CAUCR            
+----------------------------------------------------------------------------------------------------
+COAT           Varchar2       Part A - Corrosion - Pipe Coating Information; Bare, Coated           
+----------------------------------------------------------------------------------------------------
+PROT           Varchar2       Part A - Corrosion - Was corroded pipeline cathodically protected? 
+                              (Yes/No/Null)                                                         
+----------------------------------------------------------------------------------------------------
+CPYR           Number         Part A - Corrosion - Year Cathodic Protection Started                 
+----------------------------------------------------------------------------------------------------
+CAULK          Varchar2       Part B - Damage by Outside Forces - Primary cause of incident         
+----------------------------------------------------------------------------------------------------
+DMGO           Varchar2       Part B - Damage by Outside Forces - Text describing Other for field 
+                              DMGO                                                                  
+----------------------------------------------------------------------------------------------------
+NOTIF          Varchar2       Part B - Damage by Outside Forces  - Did operator get prior 
+                              notification that equipment would be used in the area? (Yes/No/Null)  
+----------------------------------------------------------------------------------------------------
+NOTDT          Varchar2       Part B - Damage by Outside Forces - Date when notification received 
+                              (YYYYMMDD)                                                            
+----------------------------------------------------------------------------------------------------
+MARK           Varchar2       Part B - Damage by Outside Forces - Was pipeline location marked 
+                              either as a result of notification or by markers already in place? 
+                              (Yes/No/Null)                                                         
+----------------------------------------------------------------------------------------------------
+MRKTP          Varchar2       Part B - Damage by Outside Forces - Specify type of marking           
+----------------------------------------------------------------------------------------------------
+STAT           Varchar2       Part B - Damage by Outside Forces - Does a statute or ordinance 
+                              require the outside party to determine whether underground 
+                              facility(ies) exist? (Yes/No/Null)                                    
+----------------------------------------------------------------------------------------------------
+CAULC          Varchar2       Part C - Construction Defect - Cause of the construction defect; 
+                              Construction, Material                                                
+----------------------------------------------------------------------------------------------------
+CAULO          Varchar2       Part C - Construction Defect - Description of components other than 
+                              pipe                                                                  
+----------------------------------------------------------------------------------------------------
+CTEST          Varchar2       Part C - Construction Defect - Was part which leaked tested before 
+                              incident occurred? (Yes/No/Null)                                      
+----------------------------------------------------------------------------------------------------
+TESTD          Varchar2       Part C - Construction Defect - Date of test (YYYYMMDD)                
+----------------------------------------------------------------------------------------------------
+MED            Varchar2       Part C - Construction Defect - Test medium; Water, Gas, Other         
+----------------------------------------------------------------------------------------------------
+MEDO           Varchar2       Part C - Construction Defect - Text describing Other for field MED    
+----------------------------------------------------------------------------------------------------
+TMPS           Number         Part C - Construction Defect - Time held at test pressure in hours    
+----------------------------------------------------------------------------------------------------
+LKPS           Number         Part C - Construction Defect - Estimated test pressure at point of 
+                              incident (psig)                                                       
+----------------------------------------------------------------------------------------------------
+PNAME          Varchar2       Part 7 -  Preparer and Authorized Signature - Incident Report 
+                              Prepared by                                                           
+----------------------------------------------------------------------------------------------------
+PHONE          Varchar2       Part 7 -  Preparer and Authorized Signature - Preparer's telephone 
+                              number                                                                
+----------------------------------------------------------------------------------------------------
+NARRATIVE      Varchar2       Part 3 - Narrative description of factors contributing to the incident
+----------------------------------------------------------------------------------------------------

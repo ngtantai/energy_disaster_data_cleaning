@@ -1,0 +1,2707 @@
+==Over 400 deaths==
+{|class="wikitable sortable"
+|-
+!Year
+!Type
+!data-sort-type="number" |Fatalities
+!Damage ([[United States Dollar|US$]])
+!Article
+!Location
+!Comments
+|-
+| 1900
+| [[Tropical cyclone]]
+| 6,000 to 12,000
+| $28,000,000 (approximate)
+| [[1900 Galveston hurricane]]
+| [[Texas]]
+| Fatalities estimated.  Remains the deadliest natural disaster in North American history.
+|-
+| 1906
+| [[Earthquake]] and [[fire]] (urban conflagration)
+| 3,000+
+| 
+| [[1906 San Francisco earthquake]]
+| [[San Francisco, California]]
+| Conflagration followed quake; fatalities estimated; also major casualties in [[Santa Rosa, California|Santa Rosa]] and [[San Jose, California|San Jose]]
+|-
+| 2001
+| [[Terrorism]] 
+| 2,996
+| $178,000,000,000<br />(2001)
+| [[September 11 attacks]]
+| [[New York City]], [[Arlington County, Virginia]], and [[Stonycreek Township, Somerset County, Pennsylvania|Stonycreek Township]] near [[Shanksville, Pennsylvania]]
+| 2,977 victims and 19 hijackers. Costliest disaster in United States history.
+|-
+| 1928
+| [[Tropical cyclone]]
+| 2,812
+| $800,000,000<br />(2005)
+| [[1928 Okeechobee hurricane]]
+| [[Florida]], [[Puerto Rico]]
+| 4,078 believed dead total. 2500 in [[Florida]], 312 in [[Puerto Rico]].
+|-
+| 1941
+| [[Military strike]] - [[bomb]]ing
+| 2,467
+|
+| [[Attack on Pearl Harbor]]
+| [[Honolulu]], [[Hawaii]]
+| 2,403 U.S. victims and 64 Japanese attackers.
+|-
+| 1889
+| [[Accident]] - [[Dam failure|Dam burst]]
+| 2,209
+| 
+| [[Johnstown Flood]]
+| [[Pennsylvania]]
+| Much rain, deforestation; dam failed
+|-
+| 1893
+| [[Tropical cyclone]]
+| 2,000
+|
+| [[1893 Cheniere Caminada hurricane]]
+| [[Louisiana]]
+| Fatalities estimated
+|-
+| 2005
+| [[Tropical cyclone]]
+| 1,836
+| $108,000,000,000
+| [[Hurricane Katrina]]
+| [[Florida]], [[Louisiana]], [[Mississippi]], [[Alabama]], [[Georgia (U.S. state)|Georgia]], [[Kentucky]], and [[Ohio]]
+| Costliest natural disaster in U.S. history.
+|-
+| 1865
+| [[Accident]] - [[Shipwreck]]
+| 1,700
+| 
+| [[Sultana (steamboat)|''Sultana'']]
+| [[Marion, Arkansas]] / [[Helena, Arkansas]]
+| Steamboat sank due to boiler explosion; fatalities estimated
+|-
+| 1980
+| [[Heat wave]]
+| 1,700
+| 
+| [[1980 United States heat wave]]
+| Central and southern states
+| Official death toll, may have been higher
+|-
+| 1871
+| [[Fire]] (rural)
+| 1,500-2,500
+| 
+| [[Peshtigo Fire]]
+| [[Peshtigo, Wisconsin]], [[Upper Peninsula of Michigan]]
+| Fatalities estimated; most deaths in single fire in U.S. history
+|-
+| 1904
+| [[Accident]] - [[Shipwreck]]
+| 1,021
+| 
+| [[PS General Slocum|PS ''General Slocum'']]
+| [[East River]] near [[New York City]]
+| Steamship sank due to fire on board
+|-
+| 1893
+| [[Tropical cyclone]]
+| 1,000-2,000
+| 
+| [[1893 Sea Islands hurricane]]
+| [[Georgia (U.S. state)|Georgia]], [[South Carolina]]
+| Fatalities estimated
+|-
+| 1978
+| [[Murder–suicide|Mass murder - suicide]]
+| 909
+|
+| [[Jonestown]]
+| [[Georgetown, Guyana]]
+| Cult leader of the Peoples Temple Agricultural Project, [[Jim Jones]] convinced 909 U.S. members of the group to drink grape [[Flavor Aid|flavor aid]] poisoned with [[cyanide]], and/or inject themselves and their children with cyanide. Others were shot and killed while trying to escape.
+|-
+| 1945
+| [[Shipwreck]]
+| 879
+| 
+| [[USS Indianapolis (CA-35)|USS ''Indianapolis'']]<ref name="USS Indianapolis">{{cite web|title=In death, WWII survivor joins shipmates|url=http://www.nbcnews.com/id/27476998/ns/us_news-military/t/death-wwii-survivor-joins-shipmates/#.WItdLlygPIU|website=NBC News|publisher=The Associated Press|accessdate=27 January 2017}}</ref>
+| [[Philippine Sea]]
+| Largest loss of life in the history of the U.S. Navy
+|-
+| 1915
+| [[Accident]] - [[Shipwreck]]
+| 844
+| 
+| [[S.S. Eastland|S.S. ''Eastland'']]
+| [[Chicago, Illinois]]
+| Passenger ship capsized in Chicago harbor, causing great loss of life despite shallow water and proximity to land
+|-
+| 1995
+| [[Heat wave]]
+| 739
+| 
+| [[Chicago Heat Wave of 1995]]
+| [[Chicago, Illinois]]
+| 
+|-
+| 1925
+| [[Tornado]]
+| 695-747
+| $1,650,000,000<br />(2005)
+| [[Tri-State Tornado]]
+| [[Missouri]], [[Illinois]] and [[Indiana]] ([[Kentucky]], [[Tennessee]])
+| Lower number for single 3-state tornado; higher for 5-state outbreak
+|-
+| 1903
+| [[Fire]] (building)
+| 602
+| 
+| [[Iroquois Theatre fire]]
+| [[Chicago, Illinois]]
+| Worst theater fire in American history; worst single-building fire.
+|-
+| 1919
+| [[Tropical cyclone]]
+| 600
+| 
+| [[1919 Florida Keys hurricane]]
+| [[Florida]], [[Texas]]
+| 
+|-
+| 1928
+| [[Accident]] - [[Dam]] failure
+| 600
+| 
+| [[St. Francis Dam]]
+| [[Santa Clarita, California]]
+| 
+|-
+| 1938
+| [[Tropical cyclone]]
+| 600
+| 
+| [[1938 New England hurricane]]
+| 
+| 
+|-
+| 1947
+| [[Accident]] - [[Explosion]]
+| 581
+| 
+| [[Texas City disaster]]
+| [[Texas City, Texas]]
+| Ammonium nitrate onboard ship
+|-
+| 1871
+| [[Fire]]
+| 500 (estimated)
+| 
+| [[Great Michigan Fire]]
+| [[Michigan]]
+|
+|-
+| 1942
+| [[Fire]] (building)
+| 492
+| 
+| [[Cocoanut Grove fire]]
+| [[Boston, Massachusetts]]
+| Nightclub fire; loss of life due to blocked exits; burn victims were among the first treated with penicillin
+|-
+| 1927
+| [[Exploitation of labour|Exploitation]], [[Silicosis]]
+| 476-1,000+
+|
+| [[Hawks Nest Tunnel disaster]]
+| [[Gauley Bridge, West Virginia]]
+| 178 admitted deaths, 476 with congressional inquiry, 1,000+ by epidemiologists.
+|-
+| 1918
+| [[Fire]] (rural)
+| 453
+| $7,300,000
+| [[1918 Cloquet fire]]
+| [[Minnesota]]
+| 
+|-
+| 1936
+| [[Tornado outbreak]]
+| 436+
+| 
+| [[1936 Tupelo–Gainesville tornado outbreak]]
+| [[Alabama]], [[Arkansas]], [[Mississippi]], [[Georgia (U.S. state)|Georgia]], [[South Carolina]], [[Tennessee]]
+| Two tornadoes in [[Tupelo, Mississippi]], and [[Gainesville, Georgia]], killed 233 and 203 people respectively
+|-
+| 1913
+| [[Flood]]
+| 428
+| 
+| [[Ohio Flood of March 1913|1913 (Ohio) statewide flood]]
+| [[Ohio]]
+|
+|-
+| 1957
+| [[Tropical cyclone]]
+| 416
+| $147,000,000<br />(1957)
+| [[Hurricane Audrey]]
+| [[Louisiana]], [[Texas]], [[Mississippi]], [[Alabama]] 	
+| 
+|-
+| 1935
+| [[Tropical cyclone]]
+| 408
+| 
+| [[1935 Labor Day hurricane]]
+| [[Florida]]
+| 
+|}
+==201 to 400 deaths==
+{|class="wikitable sortable"
+|-
+!Year
+!Type
+!data-sort-type="number" |Fatalities
+!Damage ([[United States Dollar|US$]])
+!Article
+!Location
+!Comments
+|-
+| 1857
+| [[Shipwreck]]
+| 400
+| 
+| [[SS Central America|SS ''Central America'']], 1857
+| Off the coast of [[Georgia (U.S. state)|Georgia]]
+| Fatalities estimated
+|-
+| 1860
+| [[Accident]] - [[Shipwreck]]
+| 400
+| 
+| [[PS Lady Elgin|PS ''Lady Elgin'']]
+| [[Chicago, Illinois]]
+| 
+|-
+| 1888
+| [[Blizzard]]
+| 400
+| 
+| [[Great Blizzard of 1888]]
+| Northeast
+| Fatalities estimated
+|-
+| 1894
+| [[Fire]] (rural)
+| 400
+| 
+| [[Great Hinckley Fire]]
+| [[Hinckley, Minnesota]] and vicinity
+| 
+|-
+| 1937
+| [[Flood]]
+| 385
+| $5,000,000,000
+| [[Ohio River flood of 1937]]
+| [[Ohio]], [[Kentucky]], [[Indiana]], [[Illinois]]
+| 
+|-
+| 1907
+| [[Accident]] - [[Coal mine]]
+| 362
+| 
+| [[Monongah mining disaster]]
+| [[Monongah, West Virginia]]
+| 
+|-
+| 1913
+| [[Flood]]
+| 361
+| 
+| [[Great Dayton Flood]]
+| [[Dayton, Ohio]]
+| Flood was created by a series of three winter storms that hit the region in March, 1913
+|-
+| 1950
+| [[Blizzard]]
+| 353
+| $66,700,000<br />(1950)
+| [[Great Appalachian Storm of November 1950]]
+| Eastern U.S. States
+|
+|-
+| 2011
+| [[Tornado outbreak]]
+| 348
+| ~$11,000,000,000<br />(2011)
+| [[2011 Super Outbreak]]
+| [[Midwestern United States]], [[Southern United States]], [[Eastern United States]], [[Southern Ontario]]
+| 362 tornadoes, with one of the deadliest in [[Tuscaloosa, Alabama|Tuscaloosa]] and [[Birmingham, Alabama]]. 324 tornadic deaths, with another 24 from related weather.
+|-
+| 1932
+| [[Tornado outbreak]]
+| 330
+| $4,340,000
+| [[1932 Deep South tornado outbreak]]
+| [[Southern United States]]
+| At least 36 tornadoes, including 10 violent (F4 or F5) storms, resulting in 268 deaths in [[Alabama]] alone.
+|-
+| 1930
+| [[Fire]] (building)
+| 322
+|
+| [[Ohio Penitentiary]]
+| [[Columbus, Ohio]]
+|
+|-
+| 1944
+| [[Accident]] - [[Explosion]]
+| 320
+| 
+| [[Port Chicago disaster]]
+| [[Port Chicago, California]]
+| WWII ammunition ignited
+|-
+| 1974
+| [[Tornado outbreak]]
+| 319
+| $3,500,000,000<br />(2005)
+| [[1974 Super Outbreak]]
+| [[Ontario]], [[Illinois]], [[Indiana]], [[Michigan]], [[Ohio]], [[Kentucky]], [[Tennessee]], [[Alabama]], [[Mississippi]], [[Georgia (U.S. state)|Georgia]], [[North Carolina]], [[Virginia]], [[West Virginia]] and [[New York (state)|New York]]
+| 148 tornadoes
+|-
+| 1993
+| [[Cyclonic]] [[Blizzard]]
+| 318
+| $6,650,000,000<br />(2008)
+| [[1993 Storm of the Century]]
+| [[Ontario]], [[Quebec]], [[Eastern United States]], [[Cuba]]
+|
+|-
+| 1865
+| [[Accident]] - [[Explosion]]
+| 300
+| 
+| [[Mobile magazine explosion]]
+| [[Mobile, Alabama]]
+| Civil War ammunition
+|-
+| 1937
+| [[Accident]] - [[Explosion]]
+| 296-319
+| $13,000,000<br />(2003)
+| [[New London School explosion]]
+| [[New London, Texas]]
+| Gas leak
+|-
+| 1881
+| [[Fire]] (rural)
+| 282
+| $2,347,000
+| [[Thumb Fire]]
+| [[Michigan]]
+| 
+|-
+| 1876
+| [[Fire]] (building)
+| 278
+| 
+| [[Brooklyn Theatre fire]]
+| [[Brooklyn]], [[New York (state)|New York]]
+| 
+|-
+| 1898
+| [[Explosion]]
+| 274
+| 
+| [[USS Maine (ACR-1)|USS ''Maine'']]
+| [[Havana, Cuba]]
+| A major event that precipitated the [[Spanish–American War]].  Exact cause remains unknown.
+|-
+| 1979
+| [[Accident]] - [[Aircraft]]
+| 273
+| 
+| [[American Airlines Flight 191]]
+| [[Chicago, Illinois]]
+| Deadliest aircraft accident in U.S. history
+|-
+| 1965
+| [[Tornado outbreak]]
+| 271
+| 
+| [[1965 Palm Sunday tornado outbreak|Palm Sunday tornado outbreak]]
+| [[Iowa]], [[Ohio]], [[Michigan]], [[Indiana]]
+| 78 tornadoes
+|-
+| 1999
+| [[Heat wave]]
+| 271
+| 
+| 
+| [[Midwest]] and [[Northeastern United States|Northeast]]
+| 
+|-
+| 2001
+| [[Accident]] - [[Aircraft]]
+| 265
+| 
+| [[American Airlines Flight 587]]
+| [[Queens, New York]]
+| 
+|-
+| 1913
+| [[Accident]] - [[Coal mine]]
+| 263
+| 
+| 
+| [[Dawson, New Mexico]]
+| 
+|-
+| 1909
+| [[Accident]] - [[Coal mine]]
+| 259
+| 
+| [[Cherry Mine disaster]]
+| [[Cherry, Illinois]]
+| 
+|-
+| 1937
+| [[Accident]] - [[Coal mine]]
+| 257
+| 
+| 
+| [[Grundy, Virginia]]
+| 
+|-
+| 1969
+| [[Tropical cyclone]]
+| 256
+| 
+| [[Hurricane Camille]]
+| [[Mississippi]],
+[[Alabama]], and [[Virginia]]
+| 
+|-
+| 1896
+| [[Tornado]]
+| 255-400
+| $2,900,000,000<br />(1997)
+| [[St. Louis-East St. Louis Tornado]]
+| [[Missouri]]
+| 
+|-
+| 1913
+| [[Blizzard]]
+| 250
+| $5,000,000<br />(1913)
+| [[Great Lakes Storm of 1913]]
+| [[Great Lakes region]]
+| Fatalities estimated
+|-
+| 1953
+| [[Tornado outbreak sequence]]
+| 247
+| 
+| [[Flint–Worcester tornado outbreak sequence]]
+| [[Michigan]]
+[[Ohio]], [[Nebraska]] and [[Massachusetts]]
+| 116 deaths in [[Flint, Michigan]], 94 in [[Worcester, Massachusetts]].
+|-
+| 1927
+| [[Flood]]
+| 246
+| $400,000,000
+| [[Great Mississippi Flood of 1927]]
+| [[Arkansas]], [[Illinois]], [[Kentucky]], [[Louisiana]], [[Mississippi]], and [[Tennessee]]
+| 
+|-
+| 1983
+| [[Terrorism]]
+| 241
+| 
+| [[1983 Beirut barracks bombings]]
+| [[Beirut]], [[Lebanon]]
+| 58 French peacekeepers, six civilians and two suicide bombers also died in the attack
+|-
+| 1912
+| [[Accident]] - [[Shipwreck]]
+| 238
+|
+| [[Sinking of the RMS Titanic|RMS ''Titanic'']]<ref name="ICYouSee">{{cite web|last1=Henderson|first1=John R.|title=Demographics of the TITANIC Passengers: Deaths, Survivals, Nationality, and Lifeboat Occupancy|url=http://www.icyousee.org/titanic.html#nation|website=ICYouSee|accessdate=27 January 2017}}</ref>
+| north [[Atlantic Ocean]], south of [[Newfoundland]]
+| Only includes U.S. victims
+|-
+| 1972
+| [[Flood]]
+| 238
+| $160,000,000<br />(1972)<br />$664,000,000<br />(2002)
+| [[Floods in the United States: 1901–2000#Rapid City, South Dakota Flood – June 1972|1972 Rapid City Flood]]
+| [[Rapid City, South Dakota]]
+| Average rainfall over area of 60&nbsp;mi² measured at 10-{{convert|15|in|mm}}, over 6 hours in middle of night June 9–10, 1972.
+|-
+| 1996
+| [[Accident]] - [[Aircraft]]
+| 230
+| 
+| [[TWA Flight 800]]
+| [[Long Island]], [[New York (state)|New York]]
+| 
+|-
+| 1997
+| [[Accident]] - [[Aircraft]]
+| 228
+|
+| [[Korean Air Flight 801]]
+| [[Nimitz Hill]], [[Guam]]
+| 
+|-
+| 1998
+| [[Terrorism]]
+| 223
+|
+| [[1998 United States embassy bombings]]
+| [[Tanzania]], [[Kenya]]
+| 4,000+ injured
+|-
+| 1999
+| [[Accident]] - [[Aircraft]]
+| 217
+|
+| [[EgyptAir Flight 990]]
+| [[Atlantic Ocean]] near [[Nantucket]], [[Massachusetts]]
+|
+|-
+| 1940
+| [[Fire]] (building)
+| 209
+|
+| [[Rhythm Club fire]]
+| [[Natchez, Mississippi]]
+|
+|}
+==81 to 200 deaths==
+{|class="wikitable sortable"
+|-
+!Year
+!Type
+!data-sort-type="number" |Fatalities
+!Damage ([[United States Dollar|US$]])
+!Article
+!Location
+!Comments
+|-
+| 1871
+| [[Fire]] (urban conflagration)
+| 200-300
+| 
+| [[Great Chicago Fire]]
+| [[Chicago, Illinois]]
+| Fatalities estimated; 125 bodies recovered
+|-
+| 1900
+| [[Accident]] - [[Coal mine]]
+| 200
+| 
+| [[Scofield Mine disaster]]
+| [[Scofield, Utah]]
+| 
+|-
+| 1898
+| [[Accident]] - [[Shipwreck]]
+| 192
+| 
+| [[Portland (shipwreck)|''The Portland'']]
+| [[Gloucester, Massachusetts]]
+| | 
+|-
+| 1863
+| [[Mass murder]], [[Military operation]]
+| 185-200
+|
+| [[Lawrence Massacre]]
+| [[Lawrence, Kansas]]
+| 
+|-
+| 1947
+| [[Tornado]]
+| 181
+|
+| [[1947 Glazier–Higgins–Woodward tornadoes]]
+| [[Oklahoma]] (especially [[Woodward, Oklahoma|Woodward]]), [[Texas]] (including [[Glazier, Texas|Glazier]] and [[Higgins, Texas|Higgins]]), [[Kansas]]
+| 
+|-
+| 1890
+| [[Mass murder]], [[Military operation]]
+| 178
+|
+| [[Wounded Knee Massacre]]
+| [[Wounded Knee Creek]], [[South Dakota]]
+| 
+|-
+| 1908
+| [[Fire]] (building)
+| 174
+|
+| [[Collinwood school fire]]
+| [[Cleveland, Ohio]]
+|
+|-
+| 1908
+| [[Fire]] (building)
+| 171
+|
+| [[Rhoads Opera House fire]]
+| [[Boyertown, Pennsylvania]]
+| Sources conflict on number of fatalities: 170 or 171.
+|-
+| 1917
+| [[Fire]] (mine)
+| 168
+| 
+| [[Speculator Mine disaster]]
+| [[Butte, Montana]]
+|
+|-
+| 1944
+| [[Fire]] (building)
+| 168
+| 
+| [[Hartford circus fire]]
+| [[Hartford, Connecticut]]
+|
+|-
+| 1995
+| [[Terrorism]]
+| 168
+| 
+| [[Oklahoma City bombing]]
+| [[Oklahoma City, Oklahoma]]
+|
+|-
+| 1946
+| [[Tsunami]] and [[Earthquake]]
+| 165
+| 
+| [[1946 Aleutian Islands earthquake]]
+| [[Alaska]], [[Hawaii]]
+| 
+|-
+| 1977
+| [[Fire]] (building)
+| 165
+| 
+| [[Beverly Hills Supper Club fire]]
+| [[Southgate, Kentucky]]
+| 
+|-
+| 1944
+| [[Sea|Maritime]] [[Accident]]
+| 163
+|
+| [[West Loch disaster]]
+| [[Pearl Harbor]], [[Hawaii]]
+| Classified as [[top secret]] until 1960.
+|-
+| 2011
+| [[Tornado]]
+| 158
+| $2,800,000,000<br />(2011)
+| [[2011 Joplin tornado]]
+| [[Joplin, Missouri]]
+| Part of the [[May 21–26, 2011 tornado outbreak sequence]].  3 additional fatalities resulted indirectly from this tornado.
+|-
+| 1987
+| [[Accident]] - [[Aircraft]]
+| 156
+|
+| [[Northwest Airlines Flight 255]]
+| [[Detroit, Michigan]]
+|
+|-
+| 1982
+| [[Accident]] - [[Aircraft]]
+| 153
+|
+| [[Pan Am Flight 759]]
+| [[New Orleans, Louisiana]]
+|
+|-
+| 1911
+| [[Fire]] (building)
+| 146
+| 
+| [[Triangle Shirtwaist Factory fire]]
+| [[New York City]], [[New York (state)|New York]]
+| 
+|-
+| 1976
+| [[Flood]]
+| 145
+| 
+| [[Floods in the United States: 1901–2000#Big Thompson Canyon Flood in Colorado (July 1976)|Big Thompson Canyon Flood of 1976]]
+| [[Colorado]]
+| 
+|-
+| 1978
+| [[Accident]] - [[Aircraft]]
+| 144
+|
+| [[PSA Flight 182]]
+| [[San Diego, California]]
+|
+|-
+| 1840
+| [[Accident]] - [[Shipwreck]]
+| 139
+| 
+| [[Lexington (steamship)|''Lexington'']]
+| [[Long Island Sound]]
+| Steamship sank due to fire on board
+|-
+| 1985
+| [[Accident]] - [[Aircraft]]
+| 137
+| 
+| [[Delta Air Lines Flight 191]]
+| [[Dallas, Texas]]
+| 
+|-
+| 1960
+| [[Accident]] - [[Aircraft]]
+| 134
+| 
+| [[1960 New York mid-air collision]]
+| [[New York City]], [[New York (state)|New York]]
+| 
+|-
+| 1967
+| [[Fire]]
+| 134
+| >$72,000,000
+| [[1967 USS Forrestal fire]]
+| [[Gulf of Tonkin]], [[Vietnam]]
+|
+|-
+| 1994
+| [[Accident]] - [[Aircraft]]
+| 132
+|
+| [[USAir Flight 427]]
+| [[Pittsburgh, Pennsylvania]]
+|
+|-
+| 1944
+| [[Accident]] - [[Explosion]]
+| 130
+| $7,000,000-<br />$15,000,000
+| [[Cleveland East Ohio Gas explosion]]
+| [[Cleveland, Ohio]]
+| 
+|-
+| 1963
+| [[Accident]] - [[Submarine]]
+| 129
+|
+| [[USS Thresher (SSN-593)|USS ''Thresher'' (SSN-593)]]
+| [[Atlantic Ocean]], off the coast of [[Massachusetts]]
+| Deadliest submarine disaster in history.
+|-
+| 1915
+| [[Military strike|Incident]] - [[Sea|Maritime]]
+| 128
+|
+| [[Sinking of the RMS Lusitania|Sinking of the RMS ''Lusitania'']]
+| [[Atlantic Ocean]] near [[Kinsale]], [[Ireland]]
+| Ship torpedoed by a German [[U-boat]].  1,198 fatalities resulted overall; 128 of them were Americans.
+|-
+| 1956
+| [[Accident]] - [[Aircraft]]
+| 128
+|
+| [[1956 Grand Canyon mid-air collision]]
+| [[Grand Canyon, Arizona]]
+| Parts of wreckage still visible
+|-
+| 1972
+| [[Accident]] - [[Dam]] burst
+| 125
+| 
+| [[Buffalo Creek flood]]
+| [[Logan County, West Virginia]]
+| 
+|-
+| 1929
+| [[Fire]] (building)
+| 123
+|
+| [[Cleveland Clinic fire of 1929]]
+| [[Cleveland, Ohio]]
+|
+|-
+| 1933
+| [[Earthquake]]
+| 120
+| $50,000,000<br />(1933)
+| [[Long Beach earthquake]]
+| [[Long Beach, California]]
+|
+|-
+| 2005
+| [[Tropical cyclone]]
+| 120
+| $12,000,000,000<br />(2005)
+| [[Hurricane Rita]]
+| [[Louisiana]]
+| 
+|-
+| 1946
+| [[Fire]] (building)
+| 119
+|
+| [[Winecoff Hotel]]
+| [[Atlanta, Georgia]]
+|
+|-
+| 1899
+| [[Tornado]]
+| 117
+| >$300,000 ($8,381,000 in today's dollars).
+| [[New Richmond tornado]]
+| [[New Richmond, Wisconsin]]
+| Tornado hit the same time the circus was in town.
+|-
+| 1918
+| [[Earthquake]]
+| 116
+| 
+| [[1918 San Fermin earthquake]]
+| [[Puerto Rico]]
+|
+|-
+| 1837
+|[[Accident]] - [[Shipwreck]]
+| 115
+| 
+| Wreck of the ''Mexico''
+| [[Long Beach, New York]]
+| Eight people rescued from shore. One hundred fifteen crew and passengers (mostly Irish immigrants, and many of them women and children) froze to death on the deck of the ship just 200 yards from shore. See book: "Water and Ice: The Tragic Wrecks of the ''Bristol'' and the ''Mexico'' on the South Shore of Long Island" @ [http://www.Lynhistory.com www.Lynhistory.com] The wreck of the ''Mexico'' is the subject of Walt Whitman's poem, "[http://bailiwick.lib.uiowa.edu/whitman/sleepers/ Sleepers]" in ''Leaves of Grass''.
+|-
+| 1938
+| [[Flood]]
+| 115
+| 
+| [[Los Angeles flood of 1938]]
+| [[Los Angeles, California]]
+| 
+|-
+| 1964
+| [[Tsunami]] and [[Earthquake]]
+| 115
+| $1,800,000,000<br />(2006)
+| [[Good Friday earthquake]]
+| [[Alaska]], [[Hawaii]], [[Oregon]], [[California]], [[British Columbia]]
+| 
+|-
+| 1953
+| [[Tornado]]
+| 114
+|
+| [[1953 Waco tornado outbreak]]
+| [[Waco, Texas]]
+| Other tornadoes in the outbreak caused an additional 30 deaths
+|-
+| 1981
+| [[Accident]] - collapse
+| 114
+| 
+| [[Hyatt Regency walkway collapse]]
+| [[Kansas City, Missouri]]
+| 
+|-
+| 1975
+| [[Accident]] - [[Aircraft]]
+| 113
+|
+| [[Eastern Air Lines Flight 66]]
+| [[New York City]], [[New York (state)|New York]]
+|
+|-
+| 2008
+| [[Tropical cyclone]]
+| 112
+| $29,500,000,000<br />(2008)
+| [[Hurricane Ike]]
+| [[Texas]]; [[Louisiana]]
+| 34 people still missing as of 2013
+|-
+| 1947
+| [[Accident]] - [[Coal mine]]
+| 111
+| 
+| [[Centralia mine disaster]]
+| [[Centralia, Illinois]]
+| 
+|-
+| 1971
+| [[Accident]] - [[Aircraft]]
+| 111
+|
+| [[Alaska Airlines Flight 1866]]
+| [[Juneau, Alaska]]
+|
+|-
+| 1989
+| [[Accident]] - [[Aircraft]]
+| 111
+| 
+| [[United Airlines Flight 232]]
+| [[Sioux City, Iowa]]
+| 
+|-
+| 1996
+| [[Accident]] - [[Aircraft]]
+| 110
+| 
+| [[ValuJet Flight 592]]
+| [[Florida Everglades]]
+| 
+|-
+| 1869
+| [[Accident]] - [[Coal mine]]
+| 108
+|
+| [[Avondale Mine disaster]]
+| [[Plymouth, Pennsylvania]]
+|
+|-
+| 1918
+| [[Accident]] - [[Railroad]]
+| 101
+| 
+| [[Great Train Wreck of 1918]]
+| [[Nashville, Tennessee]]
+| Deadliest rail accident in U.S. history
+|-
+| 1963
+| [[Accident]] - [[Aircraft]]
+| 101
+|
+| [[Northwest Airlines Flight 293]]
+| Near [[Annette Island]], [[Alaska]]
+|
+|-
+| 1972
+| [[Accident]] - [[Aircraft]]
+| 101
+|
+| [[Eastern Air Lines Flight 401]]
+| [[Miami, Florida]]
+|
+|-
+| 1978
+| [[Blizzard]]
+| 100
+| $1,075,000,000<br />(2010)
+| [[Northeastern United States blizzard of 1978]]
+| Northeast
+| Fatalities estimated
+|-
+| 2003
+| [[Fire]] (building)
+| 100
+| 
+| [[The Station nightclub fire]]
+| [[West Warwick, Rhode Island]]
+| 4th-deadliest nightclub fire in U.S. history, killing 100 people and injuring more than 200.
+|-
+| 1890
+| [[Accident]] - [[Shipwreck]]
+| 98
+| 
+| [[Sea Wing disaster]]
+| [[Lake Pepin]] near [[Lake City, Minnesota]]
+| Strong winds toppled the excursion vessel.
+|-
+| 1922
+| Roof collapse (snow)
+| 98
+|
+| [[Knickerbocker Theatre (Washington, D.C.)|Knickerbocker Theatre]]
+| [[Washington, D.C.|Washington, District of Columbia]]
+|
+|-
+| 1904
+| [[Accident]] - [[Railroad]]
+| 97
+|
+| [[Eden train wreck]]
+| [[Pueblo, Colorado]]
+|
+|-
+| 1910
+| [[Avalanche]]
+| 96
+| 
+| [[Wellington avalanche]]
+| [[Wellington, Washington]]
+| Avalanche hit 2 trains in Tye Canyon
+|-
+| 1954
+| [[Tropical cyclone]]
+| 95
+|
+| [[Hurricane Hazel]]
+| [[North Carolina]]; [[South Carolina]]
+| U.S. victims only
+|-
+| 1958
+| [[Fire]] (building)
+| 95
+|
+| [[Our Lady of the Angels School fire]]
+| [[Chicago, Illinois]]
+|
+|-
+| 1962
+| [[Accident]] - [[Aircraft]]
+| 95
+|
+| [[American Airlines Flight 1]]
+| [[New York City]], [[New York (state)|New York]]
+|
+|-
+| 1918
+| [[Accident]] - [[Railroad]]
+| 93
+| 
+| [[Malbone Street Wreck]]
+| [[Brooklyn, New York]]
+| 
+|-
+| 1876
+| [[Accident]] - [[Railroad]]
+| 92
+| 
+| [[Ashtabula River railroad disaster]]
+| [[Ashtabula, Ohio]]
+| 
+|-
+| 1974
+| [[Accident]] - [[Aircraft]]
+| 92
+|
+| [[TWA Flight 514]]
+| [[Berryville, Virginia]]
+|
+|-
+| 1973
+| [[Accident]] - [[Aircraft]]
+| 89
+|
+| [[Delta Air Lines Flight 723]]
+| [[Boston, Massachusetts]]
+|
+|-
+| 2000
+| [[Accident]] - [[Aircraft]]
+| 88
+|
+| [[Alaska Airlines Flight 261]]
+| [[Pacific Ocean]] near [[Anacapa Island, California]]
+|
+|-
+| 1990
+| [[Fire]] (building)
+| 87
+| 
+| [[Happy Land fire]]
+| [[New York City]], [[New York (state)|New York]]
+| 
+|-
+| 1910
+| [[Fire]] (rural)
+| 86
+| 
+| [[Great Fire of 1910]]
+| [[Washington (state)|Washington]], [[Idaho]], [[Montana]]
+| 
+|-
+| 1918
+| [[Accident]] - [[Railroad]]
+| 86
+| 
+| [[Hammond Circus Train Wreck]]
+| [[Hammond, Indiana]]
+| 
+|-
+| 1993
+| [[Police raid]] - [[Fire]]
+| 86
+|
+| [[Waco siege]]
+| Branch Davidian Complex, [[Waco, Texas]]
+| 6 Davidians and 4 police killed in initial raid, 76 Davidians died in assault weeks later when building caught fire as a result of FBI tank attack.<ref>Carol Moore, The Davidian Massacre (Franklin, TN: Legacy Communications, 1995), 361-404.</ref>
+|-
+| 1951
+| [[Accident]] - [[Railroad]]
+| 85
+| 
+| [[Woodbridge train wreck]]
+| [[Woodbridge, New Jersey]]
+| 
+|-
+| 1968
+| [[Accident]] - [[Aircraft]]
+| 85
+|
+| [[United Airlines Flight 629]]
+| [[Dawson, Texas]]
+|
+|-
+| 1965
+| [[Accident]] - [[Aircraft]]
+| 84
+|
+| [[Eastern Air Lines Flight 663]]
+| [[New York City]], [[New York (state)|New York]]
+|
+|-
+| 1980
+| [[Fire]] (building)
+| 84
+|
+| [[MGM Grand fire]]
+| [[Las Vegas Valley|Las Vegas, Nevada]]
+|
+|-
+|1977
+|Flash Flood
+|84
+|$300,000,000
+|Second great flood hits Johnstown
+|Johnstown, PA
+|The flood occurred when an extraordinary amount of rain came down in the Conemaugh Valley in a short period of time.  Nearly 12 inches were measured in 10 hours.  The National Weather Service later estimated that this amount of rain in that location should happen less than once every 1,000 years.
+|-
+| 1969
+| [[Accident]] - [[Aircraft]]
+| 83
+| 
+| [[Allegheny Airlines Flight 853]]
+| [[Shelby County, Indiana]]
+| A Piper Cherokee 140, piloted by a student who was a week away from getting his private pilot's license, collided with an Allegheny Airlines DC-9. The flight originated in [[Boston]] and had stopped in [[Baltimore]] and [[Cincinnati]].<ref name="indystar1">[http://www2.indystar.com/library/factfiles/history/disasters/planecrashes.html Indiana Plane Crashes] {{webarchive|url=https://web.archive.org/web/20130627124130/http://www2.indystar.com/library/factfiles/history/disasters/planecrashes.html |date=2013-06-27 }}</ref>
+|-
+| 1967
+| [[Accident]] - [[Aircraft]]
+| 82
+|
+| [[Piedmont Airlines Flight 22]]
+| [[Hendersonville, North Carolina]]
+| 
+|-
+| 1986
+| [[Accident]] - [[Aircraft]]
+| 82
+|
+| [[1986 Cerritos mid-air collision]]
+| [[Cerritos, California]]
+|
+|-
+| 2017
+| [[Tropical cyclone]]
+| 82
+| ≥$70,000,000,000
+| [[Hurricane Harvey]]
+| [[Texas]], [[Louisiana]]
+| One additional death in [[Guyana]]
+|-
+| 1887
+| [[Accident]] - [[Railroad]]
+| 81-85
+| 
+| [[1887 Great Chatsworth train wreck|Great Chatsworth train wreck]]
+| [[Chatsworth, Illinois]]
+| 
+|-
+| 1963
+| [[Accident]] - [[Aircraft]]
+| 81
+| 
+| [[Pan Am Flight 214]]
+| [[Elkton, Maryland]]
+| Lightning strike
+|}
+==41 to 80 deaths==
+{|class="wikitable sortable"
+|-
+!Year
+!Type
+!data-sort-type="number" |Fatalities
+!Damage ([[United States Dollar|US$]])
+!Article
+!Location
+!Comments
+|-
+| 1943
+| [[Accident]] - [[Railroad]]
+| 79
+|
+| [[Frankford Junction train wreck]]
+| [[Philadelphia, Pennsylvania]]
+|
+|-
+| 1862
+| [[Accident]] - [[Explosion]]
+| 78
+| 
+| [[Allegheny Arsenal]]
+| [[Pittsburgh, Pennsylvania]]
+| Largest civilian death toll during [[American Civil War]]
+|-
+| 1950
+| [[Accident]] - [[Railroad]]
+| 78
+| 
+| [[Kew Gardens train crash]]
+| [[Kew Gardens, New York]]
+| 
+|-
+| 1961
+| [[Accident]] - [[Aircraft]]
+| 78
+|
+| [[TWA Flight 529]]
+| [[Hinsdale, Illinois]]
+|
+|-
+| 1968
+| [[Accident]] - [[Coal mine]]
+| 78
+|
+| [[Farmington Mine disaster]]
+| [[Farmington, West Virginia]]
+|
+|-
+| 1976
+| [[Accident]] - [[Shipwreck]]
+| 78
+|
+| [[MV George Prince ferry disaster|MV ''George Prince'' ferry disaster]]
+| [[Mississippi River]], [[Louisiana]]
+| Deadliest ferry disaster in U.S. history
+|-
+| 1982
+| [[Accident]] - [[Aircraft]]
+| 78
+| 
+| [[Air Florida Flight 90]]
+| [[District of Columbia]]
+| 
+|-
+| 1961
+| [[Accident]] - [[Aircraft]]
+| 77
+|
+| [[Imperial Airlines Flight 201/8]]
+| [[Richmond, Virginia]]
+|
+|-
+| 1970
+| [[Accident]] - [[Aircraft]]
+| 75
+| 
+| [[Southern Airways Flight 932]]
+| [[Ceredo, West Virginia]]
+| Deadliest sports tragedy in U.S. history
+|-
+| 1963
+|[[Accident]] - [[Explosion]]
+| 74
+|
+| [[Indiana State Fair Coliseum]]
+| [[Indianapolis, Indiana]]
+|
+|-
+| 1913
+| [[Stampede]]
+| 73
+|
+| [[Italian Hall disaster]]
+| [[Calumet, Michigan]]
+| Second-largest loss of life within the state of [[Michigan]].
+|-
+| 1933
+| [[Accident]] - [[Airship]]
+| 73
+|
+| [[USS Akron (ZRS-4)|USS ''Akron'' (ZRS-4)]]
+| [[Atlantic Ocean]], off the coast of [[New Jersey]]
+| Deadliest airship disaster in history.
+|-
+| 1943
+| [[Accident]] - [[Railroad]]
+| 72
+|
+| [[Rennert railroad accident]]
+| [[Rennert, North Carolina]]
+|
+|-
+| 1957
+| [[Fire]] (building)
+| 72
+|
+| [[Warrenton Nursing Home fire]]
+| [[Warrenton, Missouri]]
+|
+|-
+| 1974
+| [[Accident]] - [[Aircraft]]
+| 72
+|
+| [[Eastern Air Lines Flight 212]]
+| [[Charlotte, North Carolina]]
+|
+|-
+| 2012
+| [[Tropical cyclone]]
+| 71
+| $71,400,000,000
+| [[Hurricane Sandy]]
+| Most of the [[United States East Coast]]
+| 86 indirect fatalities occurred in the United States. At least 76 additional fatalities occurred in the [[Caribbean]] and the [[Bahamas]]; 21 people are still missing in [[Haiti]].
+|-
+| 1985
+| [[Accident]] - [[Aircraft]]
+| 70
+|
+| [[Galaxy Airlines Flight 203]]
+| [[Reno, Nevada]]
+|
+|-
+| 1936
+| [[Flood]]
+| 69
+| $3,000,000,000<br />(2006)
+| [[Pittsburgh Flood of 1936]]
+| [[Pittsburgh, Pennsylvania]] area
+| 
+|-
+| 1989
+| [[Earthquake]]
+| 69
+| $6,000,000,000<br />(1989)
+| [[1989 Loma Prieta earthquake|Loma Prieta earthquake]]
+| [[San Francisco Bay Area]], [[California]]
+| 
+|-
+| 1994
+| [[Accident]] - [[Aircraft]]
+| 68
+|
+| [[American Eagle Flight 4184]]
+| [[Roselawn, Indiana]]
+| 
+|-
+| 1888
+| [[Accident]] - [[Railroad]]
+| 66
+|
+| [[Mud Run disaster]]
+| Eastern [[Pennsylvania]]
+|
+|-
+| 1955
+| [[Accident]] - [[Aircraft]]
+| 66
+|
+| [[United Airlines Flight 409]]
+| [[Medicine Bow Peak]], [[Wyoming]]
+|
+|-
+| 1959
+| [[Accident]] - [[Aircraft]]
+| 65
+|
+| [[American Airlines Flight 320]]
+| [[New York City]], [[New York (state)|New York]]
+|
+|-
+| 1971
+| [[Earthquake]]
+| 65
+| $500,000,000
+| [[Sylmar earthquake]]
+| [[Greater Los Angeles Area]], [[California]]
+| 
+|-
+| 1903
+| [[Accident]] - [[Railroad]]
+| 64
+|
+| [[Connellsville train wreck]]
+| [[Connellsville, Pennsylvania]]
+|
+|-
+| 1983
+| [[Terrorism]]
+| 64
+|
+| [[1983 United States embassy bombing]]
+| [[Beirut, Lebanon]]
+|
+|-
+| 1960
+| [[Accident]] - [[Aircraft]]
+| 63
+| 
+| [[Northwest Orient Airlines Flight 710]]
+| [[Tell City, Indiana]]
+| Wing failure resulting from freak vibrations in clear weather turbulence was the probable cause.<ref name="indystar1"/>
+|-
+| 1963
+| [[Fire]] (building)
+| 63
+|
+| [[Golden Age Nursing Home fire]]
+| [[Fitchville, Ohio]]
+|
+|-
+| 1960
+| [[Accident]] - [[Aircraft]]
+| 62
+|
+| [[Eastern Air Lines Flight 375]]
+| [[Boston, Massachusetts]]
+|
+|-
+| 1944
+| [[Military aircraft]], [[Accident]]
+| 61
+| 
+| [[Freckleton air disaster]]
+| [[Freckleton]], [[England]]
+| An American [[United States Army Air Forces]] [[Consolidated B-24 Liberator]] heavy bomber crashed into the centre of the village of [[Freckleton]]. It crashed into a church, 3 houses, and a pub. 38 children were killed.
+|-
+| 1960
+| [[Tsunami]]
+| 61
+| $500,000<br />(2005)
+| [[Great Chilean earthquake]]
+| [[Hawaii]], [[Alaska]]
+| 2,290 to 6,600 killed and $3,500,000,000 (2005) in damage worldwide. 61 killed in [[Hilo, Hawaii]]. $500,000 in U.S. property damage
+|-
+| 1864
+| [[Accident]] - [[Railroad]]
+| 60+
+|
+| [[Shohola train wreck]]
+| [[Shohola Township, Pike County, Pennsylvania|Shohola]], [[Pennsylvania]]
+|
+|-
+| 1856
+| [[Accident]] - [[Railroad]]
+| 59-67
+| 
+| [[Great Train Wreck of 1856]]
+| [[Fort Washington, Pennsylvania]]
+| 
+|-
+| 1950
+| [[Accident]] - [[Aircraft]]
+| 58
+|
+| [[Northwest Orient Airlines Flight 2501]]
+| [[Lake Michigan]]
+| Airplane wreckage never found
+|-
+| 1964
+| [[Accident]] - [[Aircraft]]
+| 58
+|
+| [[Eastern Air Lines Flight 304]]
+| [[Lake Pontchartrain]], Louisiana
+|
+|-
+| 1965
+| [[Accident]] - [[Aircraft]]
+| 58
+|
+| [[American Airlines Flight 383 (1965)|American Airlines Flight 383]]
+| [[Cincinnati, Ohio]]
+|
+|-
+| 1992
+| [[Riot]] 
+| 58
+| ~$1,000,000,000
+| [[1992 Los Angeles riots]]
+| [[Los Angeles County, California]]
+|
+|-
+| 1980
+| [[Volcano]]
+| 57
+| 
+| [[1980 eruption of Mount St. Helens]]
+| [[Washington (state)|Washington]]
+| 
+|-
+| 1984
+| [[Tornado outbreak]]
+| 57
+| 
+| [[1984 Carolinas tornado outbreak]]
+| [[Georgia (U.S. state)|Georgia]], [[North Carolina]], [[South Carolina]]
+|
+|-
+| 1994
+| [[Earthquake]]
+| 57
+| $23,000,000,000
+| [[Northridge earthquake]]
+| [[Greater Los Angeles area]], California
+| 
+|-
+| 2008
+| [[Tornado outbreak]]
+| 57
+| 
+| [[2008 Super Tuesday tornado outbreak]]
+| [[Tennessee]], [[Arkansas]], [[Kentucky]], [[Alabama]], and [[Illinois]]
+|
+|-
+| 1904
+| [[Accident]] - [[Railroad]]
+| 56
+|
+| [[New Market train wreck]]
+| [[New Market, Tennessee]]
+|
+|-
+| 1949
+| [[Accident]] - [[Aircraft]]
+| 55
+|
+| [[Eastern Air Lines Flight 537]]
+| [[Alexandria, Virginia]]
+|
+|-
+| 2016
+| [[Blizzard]]
+| 55
+| $500,000,000,<br /> to $3,000,000,000<br />(2016)
+| [[January 2016 United States blizzard]]
+| [[Eastern United States]]
+| 
+|-
+| 2004
+| [[Tropical cyclone]]
+| 54
+| $13,000,000,000<br />(2004)
+| [[Hurricane Ivan]]
+| [[Texas]], [[Florida]]
+| Damage and death figures are for the U.S. only. Storm caused an additional 67 deaths and ~$7&nbsp;billion USD in damage across the [[Caribbean]]. 
+|-
+| 1906
+| [[Accident]] - [[Railroad]]
+| 53
+|
+| [[1906 Atlantic City train wreck]]
+| [[Atlantic City, New Jersey]]
+|
+|-
+| 1906
+| [[Accident]] - [[Railroad]]
+| 53
+|
+| [[1906 Washington, D.C., train wreck]]
+| [[Washington, D.C.]]
+|
+|-
+| 1947
+| [[Accident]] - [[Aircraft]]
+| 53
+|
+| [[Eastern Air Lines Flight 605]]
+| Near [[Port Deposit, Maryland]]
+|
+|-
+| 1910
+| [[Accident]] [[Railroad]]
+| 52
+|
+| [[Green Mountain train wreck]]
+| [[Green Mountain, Iowa]]
+|
+|-
+| 1947
+| [[Accident]] - [[Aircraft]]
+| 52
+|
+| [[United Airlines Flight 608]]
+| [[Bryce Canyon]], [[Utah]]
+|
+|-
+| 1956
+| [[Accident]] - [[Shipwreck]]
+| 51
+|
+| [[SS Andrea Doria|SS ''Andrea Doria'']], [[MS Stockholm (1948)|MS ''Stockholm'']]
+| Off the coast of [[Nantucket]], Massachusetts
+|
+|-
+| 1978
+| [[Accident]] - [[Construction]]
+| 51
+| 
+| [[Willow Island disaster]]
+| [[Willow Island, West Virginia]]
+| Scaffolding fell {{convert|166|ft}} with insufficiently cured concrete
+|-
+| 1896
+| [[Accident]] - [[Railroad]]
+| 50
+| 
+| [[1896 Atlantic City rail crash]]
+| [[Atlantic City, New Jersey]]
+| 
+|-
+| 1925
+| [[Accident]] - [[Railroad]]
+| 50
+|
+| [[Rockport train wreck]]
+| [[Hackettstown, New Jersey]]
+|
+|-
+| 1993
+| [[Flood]]
+| 50
+| $15,000,000,000
+| [[Great Flood of 1993]]
+| [[Midwest]]
+| 
+|-
+| 2009
+| [[Accident]] - [[Aircraft]]
+| 50
+| 
+| [[Colgan Air Flight 3407]]
+| [[Clarence Center, New York]]
+|
+|-
+| 2016
+| [[Terrorism]]
+| 50
+|
+| [[2016 Orlando nightclub shooting]]
+| [[Orlando, Florida]]
+| 49 victims and 1 perpetrator. Deadliest shooting in U.S. history, and deadliest terror attack on U.S. soil since 9/11.
+|-
+| 1867
+| [[Accident]] - [[Railroad]]
+| 49
+| 
+| [[Angola Horror]]
+| [[Angola, New York]]
+| 
+|-
+| 1917
+| [[Accident]] - [[Railroad]]
+| 49
+|
+| [[Shepherdsville train wreck]]
+| [[Shepherdsville, Kentucky]]
+|
+|-
+| 1989
+| [[Tropical cyclone]]
+| 49
+| $7,000,000,000<br />(1989)
+| [[Hurricane Hugo]]
+| [[Caribbean]] and Eastern [[North America]].
+| Damage figure for U.S. only. At least 111 total deaths, with 37 in the continental U.S., as far north as [[Michigan]], and 12 in the U.S. possession of [[Puerto Rico]].
+|-
+| 2004
+| [[Tropical cyclone]]
+| 49
+| $9,000,000,000
+| [[Hurricane Frances]]
+| [[Florida]]
+| 
+|-
+| 2006
+| [[Accident]] - [[Aircraft]]
+| 49
+| 
+| [[Comair Flight 5191]]
+| [[Lexington, Kentucky]]
+| 
+|-
+| 1853
+| [[Accident]] - [[Railroad]]
+| 48
+| 
+| [[Norwalk rail accident]]
+| [[Norwalk, Connecticut]]
+| 
+|-
+| 1944
+| [[Accident]] - [[Railroad]]
+| 48
+|
+| [[Bagley train wreck]]
+| West of [[Ogden, Utah]]
+|
+|-
+| 1958
+| [[Accident]] - [[Railroad]]
+| 48
+|
+| [[Newark Bay rail accident]]
+| [[Newark Bay]], [[New Jersey]]
+|
+|-
+| 1999
+| [[Tornado outbreak]]
+| 48
+| $1,500,000,000<br />(2005)
+| [[1999 Oklahoma tornado outbreak]]
+| [[Oklahoma]], [[Kansas]], [[Texas]], [[Tennessee]]
+| 66 tornadoes
+|-
+| 1938
+| [[Accident]] - [[Railroad]]
+| 47
+| 
+| [[Custer Creek train wreck]]
+| [[Saugus, Montana]]
+|
+|-
+| 1944
+| [[Accident]] - [[Railroad]]
+| 47
+| 
+| [[Stockton train wreck]]
+| [[Stockton, Georgia]]
+|
+|-
+| 1993
+| [[Accident]] - [[Railroad]]
+| 47
+| 
+| [[Big Bayou Canot train disaster]]
+| [[Mobile, Alabama]]
+| Deadliest train crash in [[Amtrak]] history.
+|-
+| 2011
+| [[Tropical cyclone]]
+| 47
+| $15,800,000,000<br />(2011)
+| [[Hurricane Irene]]
+| [[Caribbean]], [[East Coast of the United States]], [[Eastern Canada]]
+| 47 fatalities in U.S. with 10 additional fatalities elsewhere.
+|-
+| 2016
+| [[Tropical cyclone]]
+| 47
+| $10,000,000,000<br />(2016)
+| [[Hurricane Matthew]]
+| [[Florida]], [[Georgia (U.S. state)|Georgia]], [[The Carolinas]]
+| Damage and death figures are for the U.S. only. Storm caused an additional 551 deaths and $5.08&nbsp;billion USD in damage across the Caribbean.
+|-
+| 1967
+| [[Accident]] - [[Bridge]] collapse
+| 46
+| 
+| [[Silver Bridge]] - over the [[Ohio River]]
+| [[Point Pleasant, West Virginia]]
+[[Gallipolis, Ohio]]
+| 
+|-
+| 1927
+| [[Mass murder]]
+| 45
+| 
+| [[Bath School disaster]]
+| [[Bath Township, Michigan]]
+| 
+|-
+| 1972
+| [[Accident]] - [[Railroad]]
+| 45
+|
+| [[1972 Chicago commuter rail crash]]
+| [[Chicago, Illinois]]
+|
+|-
+| 1972
+| [[Accident]] - [[Aircraft]]
+| 45
+| 
+| [[United Airlines Flight 553]]
+| [[Chicago, Illinois]]
+| 
+|-
+| 1955
+| [[Accident]] - [[Aircraft]]
+| 44
+|
+| [[United Airlines Flight 629]]
+| [[Longmont, Colorado]]
+| 
+|-
+| 1940
+| [[Accident]] - [[Railroad]]
+| 43
+| 
+| [[Doodlebug disaster]]
+| [[Cuyahoga Falls, Ohio]]
+|
+|-
+| 1963
+| [[Accident]] - [[Aircraft]]
+| 43
+|
+| [[Northwest Orient Airlines Flight 705]]
+| [[Everglades]], [[Florida]]
+|
+|-
+| 1971
+| [[Prison Riot]]
+| 43
+| 
+| [[Attica Prison riot]]
+| [[Attica, New York]]
+| State troopers opened non-stop fire on pirsoners and hostages after a four-day prison uprising. It is considered the deadliest one-day encounter between Americans since the Civil War.
+|-
+| 1987
+| [[Accident]] - [[Aircraft]]
+| 43
+|
+| [[PSA Flight 1771]]
+| Near [[Cayucos, California]]
+|
+|-
+| 2011
+| [[Tornado outbreak]]
+| 43
+| 
+| [[April 14–16, 2011 tornado outbreak]]
+| [[Oklahoma]], [[Texas]], [[Kansas]], [[Arkansas]], [[Mississippi]], [[Alabama]], [[Missouri]], [[Louisiana]], [[Illinois]], [[Kentucky]], [[Georgia (U.S. state)|Georgia]], [[North Carolina]], [[South Carolina]], [[Virginia]], [[Maryland]] and [[Pennsylvania]]
+| 162 tornadoes
+|-
+| 2014
+| [[Mudflow]]
+| 43
+|
+| [[2014 Oso mudslide]]
+| [[Oso, Washington]]
+| 
+|-
+| 1977
+| [[Fire]] (building)
+| 42
+| 
+| Maury County jail fire
+| [[Maury County, Tennessee]]
+| 33 prisoners and 9 visitors killed 
+|-
+| 1989
+| [[Accident]] - [[Bridge collapse]]
+| 42
+| 
+| Cypress Street viaduct
+| [[Oakland, California]]
+|
+|-
+| 1859
+| [[Bridge]] washout
+| 41
+|
+| Springbrook Bridge washout
+| [[South Bend, Indiana]]
+|
+|-
+| 1950
+| Fire (building)
+| 41
+|
+| St. Elizabeth's Hospital fire
+| [[Davenport, Iowa]]
+|
+|-
+| 1968
+| [[Natural gas]] explosion
+| 41
+| 
+| [[Richmond, Indiana explosion]]
+| [[Richmond, Indiana]]
+|
+|-
+| 2001
+| [[Tropical cyclone]]
+| 41
+| $5,500,000,000
+| [[Tropical Storm Allison]]
+| [[Texas]], [[Louisiana]], and [[Pennsylvania]]
+|
+|}
+==15 to 40 deaths==
+{|class="wikitable sortable"
+|-
+!Year
+!Type
+!data-sort-type="number" |Fatalities
+!Damage ([[United States Dollar|US$]])
+!Article
+!Location
+!Comments
+|-
+| 1912
+| [[Accident]] - [[Railroad]]
+| 39
+|
+| [[Corning train wreck]]
+| [[Corning (town), New York|Corning, New York]]
+|
+|-
+| 1977
+| [[Accident]] - [[Dam]] failure
+| 39
+|
+| [[Kelly Barnes Dam]]
+| [[Toccoa, Georgia]]
+| 
+|-
+| 1997
+| [[Mass suicide]]
+| 39
+|
+| [[Heaven's Gate (religious group)]]
+| [[San Diego, California]]
+| Cult leaders [[Marshall Applewhite]] and [[Bonnie Nettles]] convinced followers they would join [[Comet Hale-Bopp]] to take them to another planet by swallowing poison.
+|-
+| 1920
+| [[Terrorism]]
+| 38
+| 
+| [[Wall Street bombing]]
+| [[Manhattan|Manhattan, New York]] 
+|
+|-
+| 1969
+| [[Accident]] - [[Aircraft]]
+| 38
+|
+| [[United Airlines Flight 266]]
+| [[Santa Monica Bay]], [[California]]
+|
+|-
+| 2017
+| [[Tropical cyclone]]
+| 38
+| ≥$50,000,000,000
+| [[Hurricane Irma]]
+| [[The Caribbean]], [[The Bahamas]] and the [[Eastern United States]] (particularly [[Florida]])
+| Damage and death figures are for the U.S. only. Storm caused an additional 43 deaths and approximately $12 billion USD in damage across the Caribbean.
+|-
+| 1883
+| [[Tornado]]
+| 37
+| $700,000 (1883)
+| [[1883 Rochester tornado]]
+| [[Rochester, Minnesota]]
+| F5 tornado killed 37 and injured hundreds more. It led to the creation of the [[Mayo Clinic]].
+|-
+| 1937
+| [[Accident]] - [[airship]]
+| 36
+| 
+| [[Hindenburg disaster|''Hindenburg'' disaster]]
+| [[Manchester, New Jersey]]
+| Hydrogen-filled [[zeppelin]]
+|-
+| 2016
+| [[Fire]] (building)
+| 36
+| 
+| [[2016 Oakland warehouse fire]]
+| [[Oakland, California]]
+|
+|-
+| 1969
+| [[Accident]] - [[aircraft]]
+| 35
+| 
+| [[Hawthorne Nevada Airlines Flight 708]]
+| [[Lone Pine, California]]
+| 
+|-
+| 1980
+| [[Ship]] – collision
+| 35
+|
+| [[Sunshine Skyway Bridge]]
+| [[St. Petersburg, Florida]]
+|
+|-
+| 1967
+| [[Accident]] - [[Aircraft]]
+| 34
+| 
+| [[Mohawk Airlines Flight 40]]
+| [[Blossburg, Pennsylvania]]
+| 
+|-
+| 2007
+| [[Mass murder]] - [[School shooting]]
+| 33
+| 
+| [[Virginia Tech shooting]]
+| [[Blacksburg, Virginia]]
+| Armed with two [[semi-automatic handgun]]s, student [[Seung-Hui Cho]] shot to death 32 people in two separate attacks on the campus of [[Virginia Polytechnic Institute and State University]]. 23 other people were wounded, 17 by gunfire. Cho committed suicide.<ref name="roatimes_nomotive">{{cite news|first=Reed |last=Williams |author2=Morrison, Shawna |title=Police: No motive found |url=http://www.roanoke.com/vtshootingaccounts/wb/114655 |work=The Roanoke Times |date=April 26, 2007 |accessdate=September 24, 2008 |deadurl=yes |archiveurl=https://archive.is/20120207181056/http://www.roanoke.com/vtshootingaccounts/wb/114655 |archivedate=February 7, 2012 |df= }}</ref>
+|-
+| 2015
+| [[Accident]] - [[Shipwreck]]
+| 33
+|
+| [[SS El Faro|SS ''El Faro'']]
+| Atlantic Ocean near the [[Bahamas]]
+| A U.S.-flagged vessel sank during [[Hurricane Joaquin]] with all on board perishing.
+|-
+| 1963
+| [[Accident]] – bus
+| 32
+| 
+| [[1963 Chualar bus crash]]
+| [[Chualar, California]]
+| Deadliest road accident in U.S. history
+|-
+| 1973
+| [[Fire]] (building)
+| 32
+| 
+| [[UpStairs Lounge arson attack]]
+| [[New Orleans, Louisiana]]
+| 
+|-
+| 1855
+| [[Bridge]] - [[Accident]]
+| 31
+|
+| [[Gasconade Bridge train disaster]]
+| [[Gasconade, Missouri]]
+|
+|-
+| 1981
+| [[Fire]]
+| 31
+|
+| Keansburg nursing home fire
+| [[Keansburg, New Jersey]]
+| Nursing home full of elderly and mentally disabled<ref>{{cite web|url=http://www3.gendisasters.com/new-jersey/997/keansburg,-nj-boarding-home-fire,-jan-1981 |title=Keansburg, NJ Boarding Home Fire, Jan 1981 &#124; GenDisasters ... Genealogy in Tragedy, Disasters, Fires, Floods |publisher=.gendisasters.com |accessdate=2013-05-13}}</ref>
+|-
+| 2009
+| [[Tsunami]]
+| 31
+| 
+| [[2009 Samoa earthquake and tsunami]]
+| [[American Samoa]] and nearby islands
+| 189 total deaths, with 31 in American Samoa.
+|-
+| 2010
+| [[Flood]]
+| 31
+| $2,300,000,000<br />(2010)
+| [[2010 Tennessee floods]]
+| [[Tennessee]], [[Kentucky]] and [[Mississippi]]
+|
+|-
+| 1887
+| [[Structural failure]]
+| 30
+|
+| [[Forest Hills disaster]]
+| [[Boston, Massachusetts]]
+|
+|-
+| 1923
+| [[Accident]] – [[railroad]]
+| 30
+|
+| [[Glenrock train wreck]]
+| [[Meadow Acres, Wyoming]]
+|
+|-
+| 1956
+| [[Accident]] – [[railroad]]
+| 30
+| 
+| [[Redondo Junction train wreck]]
+| [[Los Angeles, California]]
+|
+|-
+| 1998
+| [[Blizzard]]
+| 30
+| 
+| [[North American ice storm of 1998]]
+| [[Canada]] and Northeast
+| 
+|-
+| 1871
+| [[Accident]] - [[Railroad]]
+| 29
+|
+| [[Great Revere Train Wreck of 1871]]
+| [[Revere, Massachusetts]]
+|
+|-
+| 1971
+| [[Accident]] - [[Explosion]]
+| 29
+| 
+| [[Thiokol-Woodbine explosion]]
+| [[Woodbine, Georgia]]
+| 
+|-
+| 1975
+| [[Shipwreck]]
+| 29
+| 
+| Wreck of the [[SS Edmund Fitzgerald|SS Edmund ''Fitzgerald'']]
+| [[Lake Superior]]
+| 
+|-
+| 1976
+| [[Accident]] - school bus
+| 29
+|
+| [[Yuba City bus disaster]]
+| [[Martinez, California]]
+| 
+|-
+| 1977
+| [[Accident]] - [[Aircraft]]
+| 29
+| 
+| [[University of Evansville]] basketball team charter crash
+| [[Evansville, Indiana]]
+| The University of Evansville basketball team was traveling to [[Middle Tennessee State University]] when the plane crashed 90 seconds after takeoff from [[Evansville Regional Airport|Dress Regional Airport]].<ref>{{cite web|url=http://www.courierpress.com/news/2006/dec/13/memories-of-ue-plane-crash-still-linger/|title=Memories of UE plane crash still linger|work=ECP}}</ref>
+|-
+| 1990
+| [[Tornado]]
+| 29
+| $160,000,000
+| [[1990 Plainfield tornado]]
+| [[Plainfield, Illinois]]
+[[Crest Hill, Illinois]]
+| 
+|-
+| 2010
+| [[Accident]] - [[Coal mine]]
+| 29
+|
+| [[Upper Big Branch Mine disaster]]<ref>{{cite news|author=Lawrence Messina |url=http://www.huffingtonpost.com/2010/04/05/west-virginia-coal-mine-e_n_526151.html |title=West Virginia Coal Mine Explosion: 25 Dead After Massey Blast |publisher=Huffingtonpost.com |accessdate=2013-04-22 |date=April 5, 2010}}</ref>
+| [[Montcoal, West Virginia]]
+|
+|-
+| 1951
+| [[Flood]]
+| 28
+| $7,000,000,000<br />(2005)
+| [[Great Flood of 1951]]
+| [[Kansas]], [[Missouri]]
+| 
+|-
+| 2012
+| [[Mass murder]] - [[School shooting]]
+| 28
+| 
+| [[Sandy Hook Elementary School shooting]]
+| [[Sandy Hook, Connecticut]]
+| Adam Lanza shot and killed his mother, then drove to Sandy Hook Elementary School, where he fatally shot 20 students and 6 educators before committing suicide.<ref>{{cite news|title=Documents: New details on Newtown school massacre|url=http://www.cnn.com/interactive/2013/03/us/newtown-search-warrants/index.html?hpt=hp_t2|publisher=CNN|date=March 28, 2013|accessdate=March 28, 2013}}</ref>
+|-
+| 1943
+| [[Accident]] - [[Railroad]]
+| 27
+| 
+| 
+| [[Wayland, New York]]
+| [[Delaware, Lackawanna and Western Railroad]] passenger train sideswiped a freight train<ref>{{cite web|title=Wayland, NY  Passenger Train Collision,  Aug 1943|url=http://www.gendisasters.com/new-york/3376/wayland,-ny-passenger-train-collision,-aug-1943|website=GenDisasters|accessdate=30 November 2016}}</ref>
+|-
+| 1958
+| [[Accident]] - school bus
+| 27
+|
+| [[Prestonsburg, Kentucky bus disaster]]
+| [[Prestonsburg, Kentucky]]
+|
+|-
+| 1988
+| [[Accident]] - school bus
+| 27
+| 
+| [[Carrollton bus collision]]
+| [[Carrollton, Kentucky]]
+| 
+|-
+|1997
+| [[Tornado]] - F5
+| 27
+|
+| [[1997 Central Texas tornado outbreak]]
+| [[Jarrell, Texas]]
+|
+|-
+| 1970
+| [[Tornado]]
+| 26
+| $1,411,900,000<br />(2008)
+| [[Lubbock tornado]]
+| [[Lubbock, Texas]]
+| F5 tornado killed 26 and wounded approximately 500
+|-
+| 2008
+| [[Accident]] - [[Railroad]]
+| 26
+|
+| [[2008 Chatsworth train collision]]
+| [[Chatsworth, Los Angeles|Chatsworth, California]]
+|
+|-
+| 1982
+| [[Fire]] (building)
+| 25
+|
+| Dorothy Mae Apartments
+| [[Los Angeles, California]]
+| [[Arson]] fire killed 19 residents on scene, 6 others died later from injuries.
+|-
+| 1986
+| [[Accident]] - [[Aircraft]]
+| 25
+| 
+| [[Grand Canyon Airlines Flight 6]]
+| [[Grand Canyon National Park]], [[Arizona]]
+| Deadliest accident involving a helicopter in U.S. history
+|-
+| 1991
+| [[Fire]] (building)
+| 25
+| 
+| [[Hamlet chicken processing plant fire]]
+| [[Hamlet, North Carolina]]
+| Workers trapped behind locked doors
+|-
+| 1991
+| [[Fire]] (rural)
+| 25
+| $1,500,000,000
+| [[1991 Oakland firestorm]]
+| [[Oakland, California]], and vicinity
+| 
+|-
+| 2005
+| [[Tornado]]
+| 25
+| $92,000,000
+| [[Evansville Tornado of November 2005]]
+| [[Missouri]], [[Indiana]], [[Kentucky]], [[Ohio]]
+| 7 tornadoes
+|-
+| 1887
+| [[Bridge]] [[Railroad]]
+| 24
+|
+| [[Forest Hills disaster]]
+| [[Boston, Massachusetts]]
+|
+|-
+| 1991
+| [[Mass murder]]
+| 24
+|
+| [[Luby's shooting]]
+| [[Killeen, Texas]]
+| 23 murdered, gunman committed suicide
+|-
+| 1994
+| [[Accident]] - [[Aircraft]]
+| 24
+|
+| [[Green Ramp disaster]]
+| [[Fayetteville, North Carolina]]
+| Deadliest aircraft accident in the U.S. involving victims on the ground
+|-
+| 2005
+| [[Accident]] - bus
+| 24
+|
+| Wilmer bus accident
+| [[Wilmer, Texas]]
+| Carrying elderly, fleeing hurricane
+|-
+| 2013
+| [[Tornado]]
+| 24
+|
+| [[2013 Moore tornado]]
+| [[Moore, Oklahoma]]
+| 377 people were injured
+|-
+| 1919
+| [[Accident]] - [[Railroad]]
+| 23
+|
+| [[Onawa train wreck]]
+| [[Onawa, Maine]]
+|
+|-
+| 1959
+| [[Explosion]] - [[Fire]]
+| 23
+|
+| [[Meldrim, Georgia, trestle disaster]]
+| [[Meldrim, Georgia]]
+|
+|-
+| 1965
+| [[Accident]] - [[Aircraft]]
+| 23
+|
+| [[1965 USAF KC-135 Wichita crash|USAF KC-135 Wichita crash]]
+| [[Wichita, Kansas]]
+|
+|-
+| 1977
+| [[Blizzard]]
+| 23
+| $56,250,000<br />(1977)
+| [[Great Lakes Blizzard of 1977]]
+| [[New York (state)|New York]], [[Ontario]]
+| The brunt of the blizzard was centered around [[Buffalo, New York|Buffalo]].
+|-
+| 1983
+| [[Accident]] - [[Aircraft]]
+| 23
+|
+| [[Air Canada Flight 797]]
+| [[Cincinnati, Ohio]]
+|
+|-
+| 1989
+| [[Accident]] - [[Explosion]]
+| 23
+| $1,415,000,000<br />(1990)
+| [[Phillips disaster of 1989|Phillips disaster]]
+| [[Pasadena, Texas]]
+| 314 people injured
+|-
+| 1992
+| [[Tropical cyclone]]
+| 23
+| $25,000,000,000 <br />(1992)
+| [[Hurricane Andrew]]
+| [[Florida]], [[Louisiana]]
+| 
+|-
+| 1942
+| [[Accident]] - [[Aircraft]]
+| 22
+|
+| [[TWA Flight 3]]
+| [[Potosi Mountain (Nevada)|Potosi Mountain]], southwest of [[Las Vegas, Nevada]]
+| Among those killed were actress [[Carole Lombard]] and her mother, who were returning to [[Los Angeles]] after a [[war bond]] drive in their home state of [[Indiana]].
+|-
+| 1960
+| [[Accident]] - [[Aircraft]]
+| 22
+|
+| [[Cal Poly football team plane crash]]
+| [[Toledo, Ohio]]
+|
+|-
+| 1972
+| [[Accident]] - [[Aircraft]]
+| 22
+|
+| [[1972 Sacramento Canadair Sabre accident]]
+| [[Sacramento, California]]
+|
+|-
+| 1980
+| [[Accident]] - tour bus
+| 22
+|
+|
+| [[Jasper, Arkansas]]
+|
+|-
+| 1984
+| [[Mass murder]]
+| 22
+|
+| [[San Ysidro McDonald's massacre]]
+| [[San Diego, California]]
+| 19 injured
+|-
+| 1999
+| [[Accident]] - tour bus
+| 22
+|
+|
+| [[New Orleans, Louisiana]]
+| Plunged over embankment, carrying senior citizens from casino
+|-
+| 1910
+| [[Fire]], [[Structural failure]]
+| 21
+| 
+| [[Chicago Union Stock Yards fire]]
+| [[Chicago, Illinois]]
+|
+|-
+| 1910
+| [[Bombing]]
+| 21
+|
+| [[Los Angeles Times bombing|''Los Angeles Times'' bombing]]
+| [[Los Angeles|Los Angeles, California]] 
+|
+|-
+| 1915
+| [[Fire]] (building)
+| 21
+| 
+| [[St. Johns School fire]]
+| [[Peabody, Massachusetts]]
+| Schoolgirls trapped behind exit door; resulted in first city law requiring that exit doors open outward
+|-
+| 1919
+| [[Accident]] - [[Explosion]]
+| 21
+| $6,600,000,000<br />(2005)
+| [[Great Molasses Flood]]
+| [[Boston, Massachusetts]]
+| Damages are out-of-court settlements only; repairs took 133 man-months
+|-
+|  1986
+| [[Accident]] - tour bus
+| 21
+|
+|
+| [[Los Angeles, California|Walker, California]]
+|
+|-
+| 1872
+| [[Fire]] (urban conflagration)
+| 20
+| $73,500,000<br />(1872)
+| [[Great Boston fire of 1872]]
+| [[Boston, Massachusetts]]
+|
+|-
+| 1907
+| [[Accident]] - [[Railroad]]
+| 20
+|
+| [[Woodlawn (Metro-North station)|Woodlawn derailment]]
+| [[Woodlawn, Bronx|Woodlawn]], [[The Bronx]], [[New York City]]
+| The day after the [[New York Central Railroad]] inaugurated electrical train service in New York City and suburban [[Westchester County, New York|Westchester County]], an electric engine (which had a higher [[center of mass]] than the old steam engines) jumped the tracks on a curve leading into Woodlawn Station.  Wreckage was strewn over a mile (1.6&nbsp;km) with 20 dead and 150 injured.
+|-
+| 2005
+| [[Accident]] - [[Shipwreck]]
+| 20
+|
+| [[Ethan Allen boating accident|''Ethan Allen'' boating accident]]
+| [[Lake George (New York)]]
+| Overloaded tour boat capsized from another boat's wake.
+|-
+| 2010
+| [[Flood]]
+| 20
+| 
+| [[June 2010 Arkansas floods]]
+| [[Albert Pike Recreation Area]] near [[Langley, Arkansas]]
+|
+|-
+| 1897
+| [[Accident]] - [[Railroad]]
+| 19
+|
+| [[Garrison train crash]]
+| [[Garrison, New York]]
+|
+|-
+| 1944
+| [[Accident]] - [[Aircraft]]
+| 19
+| 
+| Long Creek air disaster
+| [[South Portland, Maine]]
+| 
+|-
+| 2013
+| [[Fire|Wildfire]]
+| 19
+| 
+| [[Yarnell Hill Fire]]
+| [[Yarnell, Arizona]]
+| 19 firefighters were killed trapped when they became trapped in the fast-spreading fire
+|-
+| 1861
+| [[Accident]] - [[Railroad]]
+| 17 to 20
+|
+| [[Platte Bridge Railroad Tragedy]]
+| [[St. Joseph, Missouri]]
+|
+|-
+| 1903
+| [[Accident]] - [[Railroad]]
+| 17
+|
+| [[Purdue Wreck]]
+| [[Indianapolis, Indiana]]
+|
+|-
+| 2000
+| [[Terrorism]]
+| 17
+|
+| [[USS Cole bombing]]
+| [[Aden, Yemen]]
+|
+|-
+| 1965
+| [[Accidents]] - [[Pipeline accidents]]
+| 17
+| 
+| Pipeline explosion and fire
+| [[Natchitoches, Louisiana]]
+| 
+|-
+| 1966
+| [[Mass murder]]
+| 17
+| 
+| [[Charles Whitman|University of Texas massacre]]
+| [[Austin, Texas]]
+| 
+|-
+| 1991
+| [[Accident]] - [[Automobile]]
+| 17
+|
+| Dust storm accident
+| [[Coalinga, California]]
+|
+|-
+| 2002
+| [[Mass murder]]<br>[[Serial killer|Serial killings]]
+| 17
+|
+| [[Beltway sniper attacks]]
+| [[Washington metropolitan area]]
+| 3 injured in the Beltway sniper attacks and 7 in preliminary shootings
+|-
+| 1926
+| [[Tornado]]
+| 16
+| 
+| [[La Plata, Maryland#Tornado history|La Plata tornado of 1926]]
+| [[La Plata, Maryland]]
+| 13 killed in La Plata Elementary School
+|-
+| 1978
+| [[Accident]] - [[Railroad]]
+| 16
+|
+| [[Waverly, Tennessee, tank car explosion]]
+| [[Waverly, Tennessee]]
+| An additional 43 injured
+|-
+| 1987
+| [[Accident]] - [[Railroad]]
+| 16
+|
+| [[1987 Maryland train collision]]
+| [[Chase, Maryland]]
+|
+|-
+| 1987
+| [[Mass Murder]]<br>[[spree killer]]
+| 16
+|
+| [[Ronald Gene Simmons|The Dover massacre]]
+| [[Dover, Arkansas]] - [[Russellville, Arkansas]]
+|
+|-
+| 2015
+| [[Terrorism]]
+| 16
+| 
+| [[2015 San Bernardino attack]]
+| [[San Bernardino, California]]
+| An additional 24 injured
+|-
+| 2016
+| [[Accident]] - [[Hot air balloon]]
+| 16
+|
+| [[2016 Lockhart hot air balloon crash]]
+| [[Lockhart, Texas]]
+| Deadliest ballooning disaster in U.S. history
+|-
+| 2017
+| [[blizzard]]
+| 16-19
+|
+| [[March 2017 North American blizzard]]
+| [[Northeastern United States]], [[Upper Midwest]], [[Great Plains]]
+| 
+|-
+| 1954
+| [[Fire]] (building)
+| 15
+|
+| [[Cleveland Hill Union Free School District|Cleveland Hill Middle School fire]]
+| [[Cheektowaga (town), New York|Cheektowaga, New York]]
+|
+|-
+| 1986
+| [[Mass murder]]
+| 15
+| 
+| [[Edmond post office shooting]]
+| [[Edmond, Oklahoma]]
+| 14 victims and 1 perpetrator 
+|-
+| 1999
+| [[Mass murder]]
+| 15
+| 
+| [[Columbine High School massacre]]
+| [[Jefferson County, Colorado]]
+| Armed with 2 [[sawed-off shotgun]]s, a [[TEC-9]] [[pistol]] and a [[carbine]], [[Eric Harris and Dylan Klebold]] entered their school in [[Littleton, Colorado|Littleton]] and opened fire at the students and staff, killing 12 students, 1 teacher and then killing themselves.   
+|-
+| 2011
+| [[Accident]] - tour bus
+| 15
+|
+| [[World Wide Tours bus crash]]
+| [[Bronx, New York]]
+| En route to Connecticut casino, March 12
+|-
+| 2013
+| [[Accident]] - [[Explosion]]
+| 15
+|
+| [[West Fertilizer Company explosion]]
+| [[West, Texas]]
+| More than 160 people were injured.
+|}

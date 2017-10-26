@@ -1,0 +1,355 @@
+body { margin:0px 0px; padding:0px; } 
+
+* { box-sizing: Border-box } 
+
+#container{
+	background-color:black;
+	position:absolute;
+	overflow:hidden;
+	/*border: 1px solid black;*/
+} 
+
+.sprite {
+	position:absolute;
+	background-repeat:no-repeat;
+}
+
+#border {
+	left:0px;
+	top:0px;
+	width:100%;
+	height:100%;
+	border: 1px solid black;
+}
+
+#copy1 {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:250px;
+	background-image:url(../img/copy1.png);
+}
+
+#copy1_ef {
+	left:15px;
+	top:49px;
+	width:273px;
+	height:192px;
+	background-image:url(../img/copy1_ef.png);
+}
+
+#copy2 {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:250px;
+	background-image:url(../img/copy2.png);
+}
+
+#cta {
+	left:15px;
+	top:111px;
+	width:90px;
+	height:33px;
+	background-image:url(../img/cta.png);
+}
+
+#cta_over {
+	left:15px;
+	top:111px;
+	width:90px;
+	height:33px;
+	background-image:url(../img/cta_over.png);
+}
+
+#phone {
+	left:19px;
+	top:41px;
+	width:90px;
+	height:176px;
+	background-image:url(../img/phone.png);
+}
+
+#phone_dots_container {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:250px;
+}
+
+#screen_blue_dots_1 {
+	left:17px;
+	top:0px;
+	width:6px;
+	height:6px;
+	background-image:url(../img/screen_blue_dots_1.png);
+}
+
+#screen_blue_dots_2 {
+	left:29px;
+	top:4px;
+	width:6px;
+	height:7px;
+	background-image:url(../img/screen_blue_dots_2.png);
+}
+
+#screen_blue_dots_3 {
+	left:34px;
+	top:17px;
+	width:6px;
+	height:6px;
+	background-image:url(../img/screen_blue_dots_3.png);
+}
+
+#screen_blue_dots_4 {
+	left:29px;
+	top:29px;
+	width:6px;
+	height:6px;
+	background-image:url(../img/screen_blue_dots_4.png);
+}
+
+#screen_blue_dots_5 {
+	left:17px;
+	top:34px;
+	width:6px;
+	height:6px;
+	background-image:url(../img/screen_blue_dots_5.png);
+}
+
+#screen_blue_dots_6 {
+	left:4px;
+	top:29px;
+	width:7px;
+	height:6px;
+	background-image:url(../img/screen_blue_dots_6.png);
+}
+
+#screen_blue_dots_7 {
+	left:0px;
+	top:17px;
+	width:6px;
+	height:6px;
+	background-image:url(../img/screen_blue_dots_7.png);
+}
+
+#screen_blue_dots_8 {
+	left:4px;
+	top:4px;
+	width:7px;
+	height:7px;
+	background-image:url(../img/screen_blue_dots_8.png);
+}
+
+#screen_blue_dots_container {
+	left:218px;
+	top:100px;
+	width:20px;
+	height:20px;
+}
+
+#screen_connecting {
+	left:218px;
+	top:90px;
+	width:36px;
+	height:7px;
+	background-image:url(../img/screen_connecting.png);
+}
+
+#screen_blue_dots_bg {
+	left:572px;
+	top:93px;
+	width:157px;
+	height:157px;
+	background-image:url(../img/screen_blue_dots_bg.png);
+}
+
+#screen {
+	left:99px;
+	top:41px;
+	width:201px;
+	height:174px;
+	background-image:url(../img/screen.png);
+}
+
+#screen_container {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:250px;
+}
+
+#screen_blue_bar {
+	left:382px;
+	top:301px;
+	width:214px;
+	height:4px;
+	background-color:#00a5cc;
+}
+
+#logo_white {
+	left:15px;
+	top:15px;
+	width:68px;
+	height:11px;
+	background-image:url(../img/logo_white.png);
+}
+
+#phone_dots1 {
+	left:108px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots1.png);
+}
+
+#phone_dots10 {
+	left:176px;
+	top:112px;
+	width:6px;
+	height:5px;
+	background-image:url(../img/phone_dots10.png);
+}
+
+#phone_dots11 {
+	left:184px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots11.png);
+}
+
+#phone_dots12 {
+	left:191px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots12.png);
+}
+
+#phone_dots2 {
+	left:115px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots2.png);
+}
+
+#phone_dots3 {
+	left:125px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots3.png);
+}
+
+#phone_dots4 {
+	left:132px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots4.png);
+}
+
+#phone_dots5 {
+	left:139px;
+	top:112px;
+	width:6px;
+	height:5px;
+	background-image:url(../img/phone_dots5.png);
+}
+
+#phone_dots6 {
+	left:147px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots6.png);
+}
+
+#phone_dots7 {
+	left:154px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots7.png);
+}
+
+#phone_dots8 {
+	left:162px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots8.png);
+}
+
+#phone_dots9 {
+	left:169px;
+	top:112px;
+	width:5px;
+	height:5px;
+	background-image:url(../img/phone_dots9.png);
+}
+
+#tablet_ef {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:250px;
+	background-image:url(../img/tablet_ef.jpg);
+}
+
+#tablet_video_container {
+	left:95px;
+	top:0px;
+	width:821px;
+	height:500px;
+}
+
+#tablet_video {
+	left:0px;
+	top:0px;
+	width:821px;
+	height:500px;
+	background-image:url(../img/tablet_video.png);
+}
+
+#tablet_video_popup {
+	left:395px;
+	top:101px;
+	width:238px;
+	height:232px;
+	background-image:url(../img/tablet_video_popup.png);
+}
+
+#no_wifi {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:250px;
+	background-image:url(../img/no_wifi.jpg);
+}
+
+#screen_video {
+	left:145px;
+	top:50px;
+	width:178px;
+	height:105px;
+	background-image:url(../img/screen_video.jpg);
+}
+
+#legal1 {
+	left:15px;
+	top:226px;
+	width:256px;
+	height:12px;
+	background-image:url(../img/legal1.png);
+}
+
+#legal2 {
+	left:15px;
+	top:226px;
+	width:91px;
+	height:12px;
+	background-image:url(../img/legal2.png);
+}

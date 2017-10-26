@@ -1,0 +1,272 @@
+ 
+
+ 
+
+ 
+Pipeline Accident Number: 
+Type of System: 
+Accident Type: 
+Location: 
+ 
+Date and Time: 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Owner/Operator: 
+Fatalities/Injuries: 
+Damage/Clean Up Cost: 
+Material Released: 
+Quantity Released: 
+Pipeline Pressure: 
+ 
+Component Affected: 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+National Transportation Safety Board 
+
+Washington, D.C. 20594 
+
+Pipeline Accident Brief 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DCA-00-MP-004 
+Hazardous liquid  
+Pipe failure and leak 
+Winchester, Kentucky 
+January 27, 2000, 12:12 p.m. central standard  
+time (CST) 
+Marathon Ashland Pipe Line LLC 
+None 
+$7.1 million 
+Crude oil 
+About 489,000 gallons 
+606 pounds per square inch, gauge, (psig)  
+at site of failure  
+24-inch-diameter, API 5L, X-52, 0.250-inch-wall-
+thickness, steel pipe 
+
+ 
+
+The Accident 
+
+About 12:12 p.m. CST1 on January 27, 2000, a Marathon Ashland Pipe Line LLC 
+(Marathon Ashland) 24-inch-diameter pipeline that runs 265 miles between Owensboro 
+and Catlettsburg, Kentucky, ruptured near Winchester, Kentucky. The ruptured pipeline 
+released about 11,644 barrels (about 489,000 gallons) of crude oil onto a golf course and 
+into  Twomile  Creek.  No  injuries  or  deaths  resulted  from  the  accident.  As  of 
+December 13, 2000, Marathon Ashland had spent about $7.1 million in response to the 
+accident. 
+
+Preaccident Information 
+
+The  pipe  was  0.250-inch-wall-thickness,  24-inch-diameter,  steel  pipe.  It  was 
+constructed in 1973. In the area of the rupture, the pipeline ran through a layer of shale 
+and  rested  on  cinderblock-size  pieces  of  Styrofoam.  These  Styrofoam  “pillows”  were 
+installed to keep the pipe from lying directly on the shale. The pipeline had a maximum 
+operating pressure of 780 psig. 
+
+                                                 
+
+1 All references to time in this report are CST. Although the Marathon Ashland operations center is in 
+
+the eastern time zone (in Findley, Ohio), this pipeline originates in the CST zone. 
+
+NTSB/PAB-01/02 
+
+ 
+
+2 
+
+In January 1997, a contractor’s magnetic flux standard resolution inline inspection 
+tool was run through the entire pipeline. Excavations were then made at locations along 
+the pipeline where the inspection tool indicated significant anomalies. At the site where 
+the pipeline ruptured, the 1997 inspection data showed an anomaly that the contractor had 
+interpreted as a “dent.” The pipeline had not been excavated at this location because the 
+dent did not appear to meet the repair criteria being used at the time. The repair criteria 
+used  required  that,  for  a  dent  to  be  repaired,  it  had  to  be  deeper  than  2 percent  of  the 
+outside diameter of the pipe.  
+
+Leak Reporting and Response 
+
+During  the  morning  of  January  27,  2000,  the  pipeline  had  been  shut  down  for 
+previously planned maintenance work at the Catlettsburg terminal. The shutdown of the 
+line began at 6:59 a.m., and the line was out of operation until 11:12 a.m. At this time, a 
+controller at the Marathon Ashland operations center in Findlay, Ohio, opened manifold 
+valves  at  Owensboro  and  Catlettsburg  to  allow  the  pipeline  to  return  to  normal 
+operations. 
+
+At  11:14 a.m.,  the  controller  began  to  restart  the  pipeline.  About  11:30 a.m.,  a 
+pipeline leak monitor (PLM) alarm sounded in the Findlay operations center and flashed 
+on the supervisory control and data acquisition (SCADA) screen.2 This alarm indicated 
+that  the  liquids  into  and  out  of  the  pipeline  were  not  in  balance.  After  the  controller 
+focused  on  some  pressure  set  points  and  flow  rates  to  reestablish  balance,  he  resumed 
+starting  additional  pumping  units  on  the  line.  About  11:52 a.m.,  the  SCADA  system 
+flashed  “NORMAL”  on  the  screen,  indicating  that  the  alarm  had  cleared  and  the  flow 
+rates were in balance. The controller continued to monitor pressures at stations along the 
+line. At 12:00 noon, a PLM alarm again sounded, indicating that the parameters for the 2-
+hour  and  4-hour  line  balance  were  still  showing  an  imbalance  on  the  system.  (The 
+controller explained during a postaccident interview that he had expected the PLM alarms 
+to  sound  during  the  startup  of  the  system,  so  he  was  not  surprised  by  the  alarms 
+sounding.)  SCADA  records  show  that  the  pipeline  rupture  occurred  between  the 
+Marathon Ashland Tates Creek and Preston Stations at approximately 12:12 p.m. A PLM 
+alarm displayed almost immediately after the pipeline ruptured. 
+
+About  12:37 p.m.,  the  controller,  uncomfortable  about  the  lower-than-expected 
+pressures  at  pumping  stations  along  the  pipeline  and  a  lost  flow  rate  at  Catlettsburg, 
+started  to  shut  the  system  down.  Additional  PLM  alarms,  showing  losses,  displayed  at 
+12:45 and 12:54 p.m.  
+
+                                                 
+
+2 Pipeline controllers use the SCADA system to remotely monitor and control movement through pipelines. Using 
+the SCADA system, controllers can monitor flow rates and pressures along the lines and control valves and pumps to 
+adjust the flow at pump stations and other locations throughout the pipeline system.   
+
+ 
+
+NTSB/PAB-01/02 
+
+ 
+
+3 
+
+About  1:00 p.m.,  the  controller  paged  the  operations  supervisor  and,  shortly 
+afterwards,  the  supervisor  came  into  the Findlay operations center. After the controller 
+and the supervisor had discussed the situation and reviewed the data, they called the area 
+supervisor for this pipeline segment.  
+
+The two supervisors discussed the situation and agreed that they should pressure 
+up  the  pipeline  to  monitor  the  pressures.  The  downstream  valves  at  Catlettsburg  were 
+closed  about  1:02 p.m.  About  1:28 p.m.,  a  single  pumping  unit  at  Owensboro,  the 
+originating pump station, was started to put pressure on the pipeline. Pressures along the 
+pipeline were observed and recorded. About 1:00, 1:38, 1:40, and 1:44 p.m., PLM alarms 
+sounded  and  showed  on  the  SCADA  screen.  At  1:46 p.m.,  and  again  at  1:57 p.m.,  the 
+pressures were recorded.  
+
+About  2:00 p.m.,  the  controller  expressed  concern  to  the  operations  supervisor 
+that they had put about 1,000 barrels of crude oil into the pipeline, but pressures were not 
+rising  as  expected.  After  making  a  phone  call  to  the  area  supervisor,  the  operations 
+supervisor told the controller to shut down the pipeline. The shutdown was accomplished 
+about 2:05 p.m. 
+
+Shortly  afterwards,  at  2:11  p.m.,  the  Winchester  Fire  Department  called  the 
+pipeline  operations  center  in  Findlay,  Ohio,  to  report  the  odor  of  gas  in  the  air.  The 
+operations  center  immediately  relayed  this  information  to  the  area  supervisor,  who 
+dispatched  a  four-person  crew  to  close  the  two  manual  valves  nearest  the  leak  site. 
+Marathon Ashland employees closed these manual valves at 3:30 p.m. 
+
+About 2:20 p.m., a landowner downstream of the leak site telephoned the Findlay 
+operations center to report oil flowing onto his property. The operations supervisor told 
+the  controller  to  automatically  shut  the  mainline  block valves at the Preston and Tates 
+Creek Stations. 
+
+Postaccident Examination of the Failed Pipe 
+
+The  rupture  was  found  on  the  bottom  of  the  pipe.  (See  figure 1.)  Postaccident 
+laboratory examination of the pipe showed transgranular cracks that had the appearance 
+typical of fatigue progression. The combined depth of the progressive cracks in the areas 
+of maximum penetration was about 90 to 95 percent of the pipe wall thickness. 
+
+ 
+
+NTSB/PAB-01/02 
+
+ 
+
+4 
+
+ 
+Figure 1. Photograph of ruptured pipe; arrow indicates rupture site 
+
+Primary and secondary origin areas of fatigue cracking were found at the edges of 
+a dent in the pipe wall. The dent was consistent with contact with a hard object, although 
+no  hard  object  likely  to  have  caused  it  (such  as  a  rock)  was  found  during  the 
+investigation. Numerous secondary cracks were in the vicinity of the two origin areas.  
+
+Postaccident Developments 
+
+After the accident, the U.S. Department of Transportation’s Research and Special 
+Programs Administration issued a Corrective Action Order requiring Marathon Ashland 
+“to take the necessary corrective action to protect the public and the environment from 
+potential  hazards  associated  with  its  24-inch  pipeline.”  In  part,  these  actions  included: 
+maintaining a 20-percent operating pressure reduction; conducting all analysis necessary 
+to  determine  an  interim  maximum  operating  pressure;  developing  and  implementing  a 
+work plan for the testing and repair or replacement of sections of pipe with significant 
+defects; evaluating the effectiveness of full encirclement sleeves for repairing significant 
+defects identified by a transverse flux inline inspection tool; and submitting a report of 
+the  results  of  all  removal,  testing,  and  analysis  performed  under  the  work  plan  to  the 
+regional  director  of 
+ran 
+slope/deformation  and  transverse  flux  inspection  tools  in  the  pipeline  and  reported  the 
+findings to the Office of Pipeline Safety. (These tools are used to discover anomalies in 
+the line, such as dents, corrosion, or cracking.) As a result of these internal inspections, 
+anomalies meeting the repair criteria for the entire pipeline were reviewed, inspected, and 
+repaired.  
+
+the  Office  of  Pipeline  Safety.  Marathon  Ashland 
+
+Postaccident Training 
+
+Before  the  spill,  Marathon  Ashland  had  allocated  funds  for  and  ordered  (1)  a 
+SCADA training simulator for its controllers and (2) a full-time training supervisor. The 
+training supervisor began duties in March 2000. The simulator arrived on May 15, 2000, 
+
+ 
+
+NTSB/PAB-01/02 
+
+ 
+
+5 
+
+and the first pipeline simulation model, of a Marathon Ashland 10-inch products system, 
+was used to train 43 controllers. A second pipeline simulation, of a Marathon Ashland 
+22-inch  crude  oil  system,  was  installed  on  October 6,  2000.  As  of  January  2001,  four 
+controllers had completed training on this second simulation. Marathon Ashland intends 
+the  simulator  training  to  help  its  controllers  recognize  and  react  to  problems  more 
+effectively.  
+
+Probable Cause 
+
+The probable cause of the accident was fatigue cracking due to a dent in the pipe 
+that,  in  combination  with  fluctuating  pressures  within  the  pipe,  produced  high  local 
+stresses in the pipe wall. Contributing to the severity of the accident was the failure of the 
+controller  and  supervisors to timely recognize the rupture, shut down the pipeline, and 
+isolate the ruptured section of the pipeline. 
+
+ 
+
+Approved: May 3, 2001 
+
+ 
+
+NTSB/PAB-01/02 
+
+
